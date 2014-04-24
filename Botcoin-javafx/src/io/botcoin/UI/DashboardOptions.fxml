@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="optionPane" prefHeight="400.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml" fx:controller="io.botcoin.UI.DashboardOptionsController">
+  <children>
+    <Label layoutX="24.0" layoutY="19.0" text="Mt. Gox">
+      <font>
+        <Font name="Arial" size="33.0" fx:id="x1" />
+      </font>
+    </Label>
+    <ImageView id="mtGoxStatusIcon" fx:id="statusIconMtg" fitHeight="16.0" fitWidth="16.0" layoutX="251.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@dialogs/warning_16.png" preserveRatio="false" smooth="false" />
+      </image>
+    </ImageView>
+    <Label fx:id="mtgStatusLabel" layoutX="280.0" layoutY="23.0" text="Invalid keys">
+      <font>
+        <Font size="14.0" fx:id="x2" />
+      </font>
+    </Label>
+    <Button fx:id="setupMtgButton" contentDisplay="CENTER" layoutX="488.0" layoutY="19.0" mnemonicParsing="false" onAction="#buttonPressed" text="Setup">
+      <font>
+        <Font size="16.0" fx:id="x3" />
+      </font>
+    </Button>
+    <Label font="$x1" layoutX="23.0" layoutY="90.0" text="Btc-e" />
+    <ImageView fx:id="statusIconBtce" fitHeight="16.0" fitWidth="16.0" layoutX="251.0" layoutY="97.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@dialogs/warning_16.png" preserveRatio="false" smooth="false" />
+      </image>
+    </ImageView>
+    <Label fx:id="btceStatusLabel" font="$x2" layoutX="280.0" layoutY="97.0" text="Invalid keys" />
+    <Button fx:id="setupBtceBtn" contentDisplay="CENTER" font="$x3" layoutX="488.0" layoutY="92.0" mnemonicParsing="false" onAction="#buttonPressed" text="Setup" />
+    <Label font="$x1" layoutX="22.0" layoutY="159.0" prefWidth="136.0" text="Bitstamp" />
+    <ImageView fx:id="statusIconBitstamp" fitHeight="16.0" fitWidth="16.0" layoutX="250.0" layoutY="171.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@dialogs/warning_16.png" preserveRatio="false" smooth="false" />
+      </image>
+    </ImageView>
+    <Label fx:id="bitstampStatusLabel" font="$x2" layoutX="279.0" layoutY="170.0" text="Invalid keys" />
+    <Button fx:id="setupBitstampBtn" contentDisplay="CENTER" font="$x3" layoutX="488.0" layoutY="160.0" mnemonicParsing="false" onAction="#buttonPressed" text="Setup" />
+    <Separator layoutX="28.0" layoutY="231.0" prefWidth="545.0" />
+    <Button id="setupBitstampBtn" fx:id="changePassphraseButton" contentDisplay="CENTER" font="$x3" layoutX="28.0" layoutY="264.0" mnemonicParsing="false" onAction="#changePassHandler" text="Change Passphrase" />
+    <Button id="setupBitstampBtn" contentDisplay="CENTER" font="$x3" layoutX="381.0" layoutY="352.0" mnemonicParsing="false" onAction="#giveFeedback" prefWidth="177.0" text="Give feedback" />
+    <Button id="setupBitstampBtn" contentDisplay="CENTER" font="$x3" layoutX="28.0" layoutY="352.0" mnemonicParsing="false" onAction="#checkUpdates" prefWidth="177.0" text="Check for updates" />
+    <Button id="setupBitstampBtn" contentDisplay="CENTER" font="$x3" layoutX="381.0" layoutY="264.0" mnemonicParsing="false" onAction="#requestHelp" prefWidth="177.0" text="Request help" />
+  </children>
+  <stylesheets>
+    <URL value="@dashboard.css" />
+  </stylesheets>
+</AnchorPane>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="479.0" prefWidth="762.9998779296875" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml" fx:controller="io.botcoin.UI.DashboardStrategyController">
+  <children>
+    <TabPane id="tabpaneStrategy" layoutX="14.0" layoutY="14.0" prefHeight="403.0" prefWidth="671.0" tabClosingPolicy="UNAVAILABLE">
+      <tabs>
+        <Tab text="Table View">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="367.0" prefWidth="682.0">
+              <children>
+                <ScrollPane fx:id="scrollPane" layoutY="5.0" prefHeight="362.0" prefWidth="671.0" style="-fx-background-color: white;">
+                  <content>
+                    <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="340.0" prefWidth="654.0">
+                      <children>
+                        <TableView fx:id="strategyTableView" layoutY="1.0" prefHeight="347.0" prefWidth="640.0">
+                          <columns>
+                            <TableColumn editable="false" prefWidth="30.0" resizable="false" fx:id="deleteCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Status" fx:id="statusCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Market" fx:id="marketCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Type" fx:id="typeCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Amount" fx:id="amountCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Coin Type" fx:id="coinCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Up/Down" fx:id="directionCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Threshold" fx:id="thresholdCol" />
+                            <TableColumn editable="false" prefWidth="75.0" resizable="false" text="Currency" fx:id="currencyCol" />
+                          </columns>
+                        </TableView>
+                      </children>
+                    </AnchorPane>
+                  </content>
+                </ScrollPane>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+        <Tab text="Editor view">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+              <children>
+                <Text layoutX="277.0" layoutY="186.0" scaleX="2.156678952847131" scaleY="2.1950504173416965" strokeType="OUTSIDE" strokeWidth="0.0" text="Coming soon">
+                  <font>
+                    <Font name="Arial" size="13.0" />
+                  </font>
+                </Text>
+              </children>
+            </AnchorPane>
+          </content>
+        </Tab>
+      </tabs>
+    </TabPane>
+    <Button id="addRule" fx:id="newRuleBtn" layoutX="33.0" layoutY="431.0" mnemonicParsing="false" onAction="#newRule" text="New Rule" />
+    <Button fx:id="clearRulesBtn" layoutX="129.0" layoutY="431.0" mnemonicParsing="false" onAction="#clearRules" text="Clear rules" />
+    <Button fx:id="exportBtn" layoutX="566.0" layoutY="431.0" mnemonicParsing="false" onAction="#exportStrategy" text="Export strategy" />
+  </children>
+  <stylesheets>
+    <URL value="@dashboard.css" />
+    <URL value="@TableView.css" />
+  </stylesheets>
+</AnchorPane>

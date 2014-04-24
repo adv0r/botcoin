@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="397.0" prefWidth="579.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml" fx:controller="io.botcoin.UI.DashboardMarketsController">
+  <children>
+    <Pane id="statusPane" layoutX="-7.0" layoutY="-1.0" prefHeight="398.0" prefWidth="588.0">
+      <children>
+        <Text id="balanceBitstamp" fx:id="balanceBitstampUSD" layoutX="346.0" layoutY="339.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0">
+          <font>
+            <Font name="Arial" size="24.0" fx:id="x2" />
+          </font>
+        </Text>
+        <Text fx:id="bitstampBalanceText" layoutX="35.0" layoutY="321.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" text="Balance">
+          <font>
+            <Font name="Arial" size="12.0" fx:id="x1" />
+          </font>
+        </Text>
+        <Text fx:id="btceBalanceText" font="$x1" layoutX="37.0" layoutY="193.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" text="Balance" />
+        <Text fx:id="mtgoxText" layoutX="35.0" layoutY="46.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" text="MT GOX">
+          <font>
+            <Font name="Arial" size="30.0" fx:id="x3" />
+          </font>
+        </Text>
+        <Text fx:id="goxBalanceText" font="$x1" layoutX="35.0" layoutY="62.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" text="Balance" />
+        <Text fx:id="lagMtgox" font="$x2" layoutX="528.0" layoutY="84.0" opacity="0.75" strokeType="OUTSIDE" strokeWidth="0.0" text="-" visible="false" />
+        <Text font="$x1" layoutX="544.0" layoutY="102.0" opacity="0.75" strokeType="OUTSIDE" strokeWidth="0.0" text="Trade Engine Lag" visible="false" />
+        <Text id="balanceMtgox" fx:id="balanceMtgoxUSD" font="$x2" layoutX="346.0" layoutY="79.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Separator layoutX="35.0" layoutY="134.0" prefHeight="13.798828125" prefWidth="518.0" />
+        <Text id="balanceMtgox" fx:id="balanceMtgoxBTC" font="$x2" layoutX="346.0" layoutY="45.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Text id="balanceMtgox" fx:id="balanceMtgoxEUR" font="$x2" layoutX="346.0" layoutY="115.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Text fx:id="btceText" font="$x3" layoutX="35.0" layoutY="182.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" text="BTC-E" />
+        <Text id="balanceBtce" fx:id="balanceBtceBTC" font="$x2" layoutX="346.0" layoutY="176.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Text id="balanceBtce" fx:id="balanceBtceLTC" font="$x2" layoutX="346.0" layoutY="210.0" opacity="0.2" scaleX="0.9999847262952102" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Text id="balanceBtce" fx:id="balanceBtceUSD" font="$x2" layoutX="346.0" layoutY="246.0" opacity="0.2" scaleY="1.0000036234960161" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <Separator layoutX="35.0" layoutY="261.0" prefHeight="13.798828125" prefWidth="518.0" />
+        <Text fx:id="bitstampText" font="$x3" layoutX="35.0" layoutY="303.0" opacity="0.2" stroke="BLACK" strokeType="OUTSIDE" strokeWidth="0.0" text="BITSTAMP" />
+        <Text id="balanceBitstamp" fx:id="balanceBitstampBTC" font="$x2" layoutX="346.0" layoutY="304.0" opacity="0.2" strokeType="OUTSIDE" strokeWidth="0.0" />
+        <ImageView fx:id="mtgoxUsdImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="65.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/usd16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="btceUsdImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="234.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/usd16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="bitstampBtcImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="289.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/btc16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="mtgoxBtcImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="30.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/btc16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="mtgoxEurImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="99.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/eur16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="btceBtcImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="160.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/btc16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="btceLtcImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="199.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/ltc16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+        <ImageView fx:id="bitstampUsdImg" fitHeight="16.0" fitWidth="16.0" layoutX="327.0" layoutY="327.0" opacity="0.2" pickOnBounds="true" preserveRatio="true">
+          <image>
+            <Image url="@imgs/icons/usd16.png" preserveRatio="false" smooth="false" />
+          </image>
+        </ImageView>
+      </children>
+      <stylesheets>
+        <URL value="@dashboard.css" />
+      </stylesheets>
+    </Pane>
+  </children>
+  <stylesheets>
+    <URL value="@dashboard.css" />
+  </stylesheets>
+</AnchorPane>

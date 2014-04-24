@@ -1,0 +1,55 @@
+{
+    "author": "nico@botcoin.io",
+    "rules": [
+        {"id" : 1,
+         "operation": "sell",
+         "amount": "0.01",
+         "coin": "BTC",
+         "direction": "below",
+         "target": "74",
+         "comment" :" sell 10.3 BTC when price drops below 75$",
+         "executed" : false,
+         "active": false,
+        "currency" : "USD",
+         "executed-order-id" : "",
+         "executed-timestamp" : "",
+         "visualize":true,
+         "seen":false,
+         "market" : "mtgox"
+        },
+         {
+         "id" : 2,
+         "operation": "buy",
+         "amount": "1.9",
+         "coin": "LTC",
+         "direction": "below",
+         "target": "2.3",
+         "comment" :" buy 89.9 BTC when price dropw below 60$",
+         "executed" : true,
+         "active": false,
+        "currency" : "USD",
+         "executed-order-id" : "",
+         "executed-timestamp" : "",
+         "visualize":true,
+         "seen":false,
+         "market" : "btce"
+        },
+         {
+         "id" : 3,
+         "operation": "sell",
+         "amount": "0.4",
+        "coin": "BTC",
+         "direction": "above",
+         "target": "150.4",
+         "comment" :" sell 7 BTC when price dropw below 150.4$",
+         "executed" : false,
+         "active": false,
+         "currency" : "USD",
+         "executed-order-id" : "",
+         "executed-timestamp" : "",
+         "visualize":true,
+         "seen":false,
+         "market" : "bitstamp"
+        }
+    ]
+}

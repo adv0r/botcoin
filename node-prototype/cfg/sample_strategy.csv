@@ -1,0 +1,9 @@
+operation, amount,direction,target,comment
+buy,15,below,81,Compra se il prezzo is abbassa
+buy,10,below,81,Compra se il prezzo is abbassa
+buy,4,below,81,Compra se il prezzo is abbassa
+buy,5,below,81,Compra se il prezzo is abbassa
+sell,5,above,90.3,vendi se supera i 90
+sell,15,above,90.3,vendi se supera i 90
+sell,15,above,90.3,vendi se supera i 90
+sell,25,above,90.3,vendi se supera i 90

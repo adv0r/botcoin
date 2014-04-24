@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200.0" prefWidth="754.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml" fx:controller="io.botcoin.UI.dialogs.NewNotificationrulePaneController">
+  <children>
+    <Pane prefHeight="200.0" prefWidth="754.0">
+      <children>
+        <TextField alignment="CENTER_RIGHT" layoutX="592.0" layoutY="42.0" prefHeight="27.087890625" prefWidth="64.0" promptText="100.00" />
+        <Label layoutX="221.0" layoutY="47.0" text="IF THE PRICE OF 1">
+          <font>
+            <Font size="18.0" fx:id="x1" />
+          </font>
+        </Label>
+        <Label font="$x1" layoutX="14.0" layoutY="47.0" text="SEND ME" />
+        <ChoiceBox layoutX="105.0" layoutY="44.0" prefHeight="27.087990624997474" prefWidth="104.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <Label font="$x1" layoutX="451.0" layoutY="46.0" text="GOES" />
+        <ChoiceBox layoutX="379.0" layoutY="43.0" prefHeight="27.087890625" prefWidth="64.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <Label font="$x1" layoutX="384.0" layoutY="43.0" prefHeight="27.087890625" prefWidth="54.999977929684974" text="BTC" textFill="GREY" />
+        <Label font="$x1" layoutX="107.0" layoutY="43.0" prefHeight="27.087890625" prefWidth="78.99997792968497" text="an email" textFill="GREY" />
+        <ChoiceBox layoutX="504.0" layoutY="42.0" prefHeight="27.087890625" prefWidth="79.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <Label font="$x1" layoutX="511.0" layoutY="42.0" prefHeight="27.087890625" prefWidth="64.00009999999747" text="above" textFill="GREY" />
+        <ChoiceBox layoutX="668.0" layoutY="41.0" prefHeight="27.087868554684974" prefWidth="64.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <Label font="$x1" layoutX="674.0" layoutY="40.0" prefHeight="27.087890625" prefWidth="54.999977929684974" text="USD" textFill="GREY" />
+        <Button font="$x1" layoutX="317.0" layoutY="127.0" mnemonicParsing="false" prefHeight="38.310546875" prefWidth="121.0" text="ADD RULE" />
+      </children>
+    </Pane>
+  </children>
+  <stylesheets>
+    <URL value="@newruledialog.css" />
+  </stylesheets>
+</AnchorPane>

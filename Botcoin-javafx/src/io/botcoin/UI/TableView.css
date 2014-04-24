@@ -1,0 +1,42 @@
+/* 
+    Document   : TableView
+    Created on : Nov 21, 2013, 2:22:22 PM
+    Author     : Nicolò Paternoster <paternoster.nicolo at gmail.com>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.table-view {
+  -fx-base: #1d1d1d;
+  -fx-control-inner-background: white;
+  -fx-background-color: white;
+  -fx-table-cell-border-color: transparent;
+  -fx-table-header-border-color: transparent;
+  -fx-padding: 5;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 25;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color:
+        transparent
+        transparent
+        derive(-fx-base, 80%)
+        transparent;
+    -fx-border-insets: 0 10 1 0;
+}
+
+.table-view .column-header .label {
+    -fx-font-size: 12pt;
+    -fx-text-fill: black;
+    -fx-alignment: center-left;
+    -fx-opacity: 1;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: -fx-focus-color;
+}

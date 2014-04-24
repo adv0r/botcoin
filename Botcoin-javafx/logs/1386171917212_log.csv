@@ -1,0 +1,14 @@
+level,message,time
+INFO,Initial Rule added:sell 1.337 BTC on mtgox if price goes below 74.0 USD,Dec_04_16_45_19
+INFO,Initial Rule added:buy 1.9 LTC on btce if price goes below 2.3 USD,Dec_04_16_45_19
+INFO,Initial Rule added:sell 0.4 BTC on bitstamp if price goes above 150.4 USD,Dec_04_16_45_19
+INFO,Initial Rule added:buy 0.001 BTC on mtgox if price goes above 1.0 USD,Dec_04_16_45_19
+INFO,Initial Rule added:buy 0.1 BTC on mtgox if price goes above 21312.0 USD,Dec_04_16_45_19
+INFO,[mtgox] Last price of 1 BTC: 1189.81 USD,Dec_04_16_45_25
+INFO,[mtgox] Last price of 1 BTC: 860.0 EUR,Dec_04_16_45_26
+INFO,[btce] Last price of 1 BTC: 1043.0 USD,Dec_04_16_45_26
+INFO,[btce] Last price of 1 LTC: 38.5 EUR,Dec_04_16_45_27
+INFO,[bitstamp] Last price of 1 BTC: 1099.99 USD,Dec_04_16_45_27
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_16_45_27
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_16_45_27
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_16_45_27

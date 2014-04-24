@@ -1,0 +1,4 @@
+level,message,time
+INFO,Initial Rule added:buy 0.01 BTC on mtgox if price goes below 800.0 USD,Dec_04_11_59_20
+INFO,Initial Rule added:buy 0.012 BTC on mtgox if price goes above 5.0 USD,Dec_04_11_59_20
+INFO,Initial Rule added:sell 0.01 BTC on btce if price goes below 10000.0 USD,Dec_04_11_59_20

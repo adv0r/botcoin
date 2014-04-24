@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Botcoin.io.jnlp">
+  <information>
+    <title>Botcoin.io</title>
+    <vendor>Nicolo Paternoster</vendor>
+    <description>Trade bitcoins while you sleep</description>
+    <icon href="resources/img/icon.png" />
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="2.2+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Botcoin.jar" size="454678" download="eager" />
+    <jar href="lib/com.springsource.javax.persistence-2.0.0.jar" size="134386" download="eager" />
+    <jar href="lib/commons-codec-1.7.jar" size="259600" download="eager" />
+    <jar href="lib/commons-io-2.4.jar" size="185140" download="eager" />
+    <jar href="lib/gson-2.2.3.jar" size="193968" download="eager" />
+    <jar href="lib/javafx-dialogs-0.0.3.jar" size="118212" download="eager" />
+    <jar href="lib/json-simple-1.1.1.jar" size="23737" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Botcoin.io" >
+    <param name="requiredFXVersion" value="2.2+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="io.botcoin.core.App"  name="Botcoin.io" />
+  <update check="always"/>
+</jnlp>

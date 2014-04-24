@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="116.0" prefWidth="754.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml" fx:controller="io.botcoin.UI.dialogs.NewStoprulePaneController">
+  <children>
+    <Pane layoutY="-1.0" prefHeight="116.0" prefWidth="754.0">
+      <children>
+        <ChoiceBox fx:id="directionChoice" layoutX="503.0" layoutY="54.0" prefHeight="27.087890625" prefWidth="79.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <TextField fx:id="amountField" alignment="CENTER_RIGHT" layoutX="81.0" layoutY="54.0" prefHeight="27.087890625" prefWidth="64.0" promptText="00.0000" />
+        <Label layoutX="371.0" layoutY="57.0" text="IF PRICE GOES">
+          <font>
+            <Font size="18.0" fx:id="x1" />
+          </font>
+        </Label>
+        <ChoiceBox fx:id="currencyChoice" layoutX="670.0" layoutY="54.0" prefHeight="27.087868554684974" prefWidth="64.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <ChoiceBox fx:id="coinChoice" layoutX="156.0" layoutY="54.0" prefHeight="27.087890625" prefWidth="64.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <TextField fx:id="thresholdField" alignment="CENTER_RIGHT" layoutX="596.0" layoutY="54.0" prefHeight="27.087890625" prefWidth="64.0" promptText="100.00" />
+        <Label font="$x1" layoutX="232.0" layoutY="57.0" text="ON" />
+        <ChoiceBox fx:id="marketChoice" layoutX="272.0" layoutY="54.0" prefHeight="27.087890625" prefWidth="92.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+        <Label fx:id="btcText" font="$x1" layoutX="171.0" layoutY="58.0" text="BTC" visible="false" />
+        <Label fx:id="usdText" font="$x1" layoutX="684.0" layoutY="57.0" text="USD" visible="false" />
+        <ChoiceBox id="coinChoice" fx:id="operationChoice" layoutX="10.0" layoutY="54.0" prefHeight="27.087890625" prefWidth="64.0">
+          <items>
+            <FXCollections fx:factory="observableArrayList">
+              <String fx:value="Item 1" />
+              <String fx:value="Item 2" />
+              <String fx:value="Item 3" />
+            </FXCollections>
+          </items>
+        </ChoiceBox>
+      </children>
+    </Pane>
+  </children>
+  <stylesheets>
+    <URL value="@newruledialog.css" />
+  </stylesheets>
+</AnchorPane>

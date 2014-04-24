@@ -1,0 +1,153 @@
+/******NICO ADDED******+*/
+
+.tab-pane *.tab-header-background {
+   
+}
+
+#tabpaneStrategy .tab-header-area .tab-header-background
+{
+     -fx-effect: null;
+     -fx-opacity: 0.4;
+}
+
+.ttip{
+     -fx-background-radius: 0 0 0 0;
+     -fx-background-color:  linear-gradient(cyan  , deepskyblue);
+}
+
+/************NEW**********/
+
+#topPane{
+	-fx-background-image:url("imgs/bg_top_pane.png") repeat-x;
+	/*-fx-background-color:linear-gradient(#8a8a8a 0%, #6b6a6b 20%, #343534 80%, #262626 100%);*/
+}
+
+#statusPane{
+	-fx-background-color:whitesmoke;
+}
+
+#statusPaneLastPrice{
+	-fx-background-color: rgb(220,220,220);
+}
+
+#bottomPane{
+	-fx-background-color:whitesmoke;
+	
+}
+
+#optionPane{
+	-fx-background-color:whitesmoke;
+}
+
+#mtgoxBox{
+	-fx-background-color:white;
+	
+}
+
+#btceBox{
+	-fx-background-color:white;
+}
+
+#bitstampBox{
+	-fx-background-color:white;
+}
+
+#menuPane{
+	-fx-height:100%;
+	-fx-background-color:whitesmoke;
+	-fx-effect: dropshadow(three-pass-box, derive(rgba(0,0,0,0.4), 2%), 6, 0, 1, 4);
+}
+
+#toggleOnOff {
+    -fx-background-color:
+        #581616,
+        linear-gradient(#691a1a 0%, #3a0f0f 20%, #711e1e 100%),
+        linear-gradient(#3c0f0f, #711e1e),
+        radial-gradient(center 50% 0%, radius 100%, rgb(207,56,56), rgba(255,255,255,0));
+    -fx-background-radius: 0,0,0,0;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.3) , 5, 0.0 , 0 , 1 );
+    -fx-text-fill: linear-gradient(white, #d0d0d0);
+    -fx-font-size: 12px;
+    -fx-padding: 10 20 10 20;
+}
+
+#toggleOnOff Text {
+    -fx-effect: dropshadow( one-pass-box , rgba(0,0,0,0.9) , 1, 0.0 , 0 , 1 );
+}
+
+#toggleOnOff:selected{
+	-fx-background-color:
+        #080e06,
+        linear-gradient(#365c26 0%, #1e3315 20%, #182911 100%),
+        linear-gradient(#3c0f0f, #1f3516),
+        radial-gradient(center 50% 0%, radius 100%, rgb(110,183,79), rgba(255,255,255,0));
+	}
+
+#toggleOnOffStatus {
+	-fx-font-family: "Arial";
+    -fx-background-color: whitesmoke;
+    -fx-background-radius: 0,0,0,0;
+    -fx-background-insets: 0,1,2,0;
+    -fx-text-fill: rgba(0,0,0,0.75);
+    -fx-font-size: 16px;
+    -fx-padding: 10 20 10 30;
+}
+
+#toggleOnOffStatus:selected{
+	-fx-background-color:
+        #1e657f,
+        linear-gradient(#2d98bf 0%, #257d9d 20%, #237795 100%),
+        linear-gradient(#267f9f, #237795),
+        radial-gradient(center 50% 0%, radius 100%, rgb(81,178,182), rgba(255,255,255,0));
+	}
+
+
+
+/************OLD**********/
+#status-bar {
+	  -fx-border-color: #CCC;
+	  -fx-border-width: 1px;
+	  -fx-padding: 35px;
+	}
+
+#vBoxStatus{
+	-fx-padding:10px 20px 10px 20px;	
+}
+
+#top-bar {
+	-fx-background-color:#BBB;
+	-fx-background-radius: 6, 5;
+	-fx-background-insets: 0, 1;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+	-fx-text-fill: #395306;
+	}	
+
+#menu-bar {
+	-fx-background-color:#EEE;
+	-fx-text-fill: #EEE;
+	-fx-color: #000;
+	}
+
+#toggle-on-off{
+	-fx-base: salmon;
+	}
+#toggle-on-off:selected{
+	-fx-base: #b6e7c9;
+	}
+
+#toggle-bitcoinity {
+	  -fx-background-image: url('http://botcoin.io/img/bitcoinity.png');
+	  -fx-background-repeat: no-repeat;
+	  -fx-background-position: center;
+	  -fx-base: white;
+	}
+#toggle-bitcoinity:selected {
+	-fx-base: #b6e7c9;
+	}
+        
+#addRule
+{
+        -fx-base: #0066ff;
+}

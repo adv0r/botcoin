@@ -1,0 +1,934 @@
+level,message,time
+INFO,Initial Rule added:sell 1.337 BTC on mtgox if price goes below 74.0 USD,Dec_04_17_07_29
+INFO,Initial Rule added:buy 1.9 LTC on btce if price goes below 2.3 USD,Dec_04_17_07_29
+INFO,Initial Rule added:sell 0.4 BTC on bitstamp if price goes above 150.4 USD,Dec_04_17_07_29
+INFO,Initial Rule added:buy 0.001 BTC on mtgox if price goes above 1.0 USD,Dec_04_17_07_29
+INFO,Initial Rule added:buy 0.1 BTC on mtgox if price goes above 21312.0 USD,Dec_04_17_07_29
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_07_36
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_07_36
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_07_36
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_07_37
+INFO,[bitstamp] Last price of 1 BTC: 1106.64 USD,Dec_04_17_07_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_07_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_07_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_07_38
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_07_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_07_50
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_07_50
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_07_51
+INFO,[bitstamp] Last price of 1 BTC: 1106.64 USD,Dec_04_17_07_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_07_51
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_07_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_07_52
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_08_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_08_06
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_08_06
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_08_07
+INFO,[bitstamp] Last price of 1 BTC: 1105.32 USD,Dec_04_17_08_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_08_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_08_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_08_08
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_08_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_08_20
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_08_21
+INFO,[btce] Last price of 1 LTC: 38.469 EUR,Dec_04_17_08_21
+INFO,[bitstamp] Last price of 1 BTC: 1105.32 USD,Dec_04_17_08_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_08_21
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_08_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_08_22
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_08_35
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_08_36
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_08_36
+INFO,[btce] Last price of 1 LTC: 38.341 EUR,Dec_04_17_08_37
+INFO,[bitstamp] Last price of 1 BTC: 1102.89 USD,Dec_04_17_08_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_08_38
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_08_38
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_08_38
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_08_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_08_50
+INFO,[btce] Last price of 1 BTC: 1044.45 USD,Dec_04_17_08_50
+INFO,[btce] Last price of 1 LTC: 38.469 EUR,Dec_04_17_08_51
+INFO,[bitstamp] Last price of 1 BTC: 1102.89 USD,Dec_04_17_08_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_08_51
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_08_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_08_52
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_09_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_09_05
+INFO,[btce] Last price of 1 BTC: 1044.45 USD,Dec_04_17_09_06
+INFO,[btce] Last price of 1 LTC: 38.469 EUR,Dec_04_17_09_06
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_09_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_09_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_09_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_09_07
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_09_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_09_20
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_09_20
+INFO,[btce] Last price of 1 LTC: 38.342 EUR,Dec_04_17_09_21
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_09_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_09_21
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_09_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_09_22
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_09_36
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_09_38
+INFO,[btce] Last price of 1 BTC: 1044.5 USD,Dec_04_17_09_38
+INFO,[btce] Last price of 1 LTC: 38.35 EUR,Dec_04_17_09_39
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_09_39
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_09_40
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_09_40
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_09_40
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_09_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_09_50
+INFO,[btce] Last price of 1 BTC: 1044.45 USD,Dec_04_17_09_51
+INFO,[btce] Last price of 1 LTC: 38.41 EUR,Dec_04_17_09_51
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_09_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_09_51
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_09_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_09_52
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_10_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_10_07
+INFO,[btce] Last price of 1 BTC: 1044.45 USD,Dec_04_17_10_07
+INFO,[btce] Last price of 1 LTC: 38.36 EUR,Dec_04_17_10_07
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_10_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_10_08
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_10_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_10_08
+INFO,[mtgox] Last price of 1 BTC: 1186.2 USD,Dec_04_17_10_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_10_20
+INFO,[btce] Last price of 1 BTC: 1042.1 USD,Dec_04_17_10_20
+INFO,[btce] Last price of 1 LTC: 38.37 EUR,Dec_04_17_10_21
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_10_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_10_21
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_10_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_10_22
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_17_10_36
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_10_38
+INFO,[btce] Last price of 1 BTC: 1041.6 USD,Dec_04_17_10_38
+INFO,[btce] Last price of 1 LTC: 38.38 EUR,Dec_04_17_10_38
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_10_38
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_10_39
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_10_40
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_10_40
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_17_10_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_10_50
+INFO,[btce] Last price of 1 BTC: 1041.6 USD,Dec_04_17_10_50
+INFO,[btce] Last price of 1 LTC: 38.39 EUR,Dec_04_17_10_51
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_10_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_10_51
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_10_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_10_52
+INFO,[mtgox] Last price of 1 BTC: 1198.0 USD,Dec_04_17_11_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_11_06
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_11_06
+INFO,[btce] Last price of 1 LTC: 38.371 EUR,Dec_04_17_11_07
+INFO,[bitstamp] Last price of 1 BTC: 1106.65 USD,Dec_04_17_11_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_11_08
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_11_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_11_09
+INFO,[mtgox] Last price of 1 BTC: 1198.0 USD,Dec_04_17_11_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_11_20
+INFO,[btce] Last price of 1 BTC: 1041.6 USD,Dec_04_17_11_20
+INFO,[btce] Last price of 1 LTC: 38.468 EUR,Dec_04_17_11_21
+INFO,[bitstamp] Last price of 1 BTC: 1106.65 USD,Dec_04_17_11_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_11_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_11_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_11_22
+INFO,[mtgox] Last price of 1 BTC: 1184.73 USD,Dec_04_17_11_35
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_11_35
+INFO,[btce] Last price of 1 BTC: 1044.1 USD,Dec_04_17_11_35
+INFO,[btce] Last price of 1 LTC: 38.361 EUR,Dec_04_17_11_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.3 USD,Dec_04_17_11_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_11_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_11_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_11_37
+INFO,[mtgox] Last price of 1 BTC: 1184.73 USD,Dec_04_17_11_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_11_50
+INFO,[btce] Last price of 1 BTC: 1041.7 USD,Dec_04_17_11_50
+INFO,[btce] Last price of 1 LTC: 38.36 EUR,Dec_04_17_11_51
+INFO,[bitstamp] Last price of 1 BTC: 1107.3 USD,Dec_04_17_11_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_11_51
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_11_51
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_11_51
+INFO,[mtgox] Last price of 1 BTC: 1184.73 USD,Dec_04_17_12_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_12_05
+INFO,[btce] Last price of 1 BTC: 1041.7 USD,Dec_04_17_12_06
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_12_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.79 USD,Dec_04_17_12_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_12_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_12_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_12_07
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_12_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_12_21
+INFO,[btce] Last price of 1 BTC: 1041.7 USD,Dec_04_17_12_21
+INFO,[btce] Last price of 1 LTC: 38.41 EUR,Dec_04_17_12_22
+INFO,[bitstamp] Last price of 1 BTC: 1107.79 USD,Dec_04_17_12_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_12_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_12_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_12_23
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_12_35
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_12_35
+INFO,[btce] Last price of 1 BTC: 1041.7 USD,Dec_04_17_12_35
+INFO,[btce] Last price of 1 LTC: 38.46 EUR,Dec_04_17_12_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.79 USD,Dec_04_17_12_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_12_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_12_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_12_37
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_12_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_12_51
+INFO,[btce] Last price of 1 BTC: 1041.7 USD,Dec_04_17_12_51
+INFO,[btce] Last price of 1 LTC: 38.46 EUR,Dec_04_17_12_51
+INFO,[bitstamp] Last price of 1 BTC: 1107.79 USD,Dec_04_17_12_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_12_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_12_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_12_52
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_13_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_13_05
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_13_05
+INFO,[btce] Last price of 1 LTC: 38.412 EUR,Dec_04_17_13_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.8 USD,Dec_04_17_13_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_13_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_13_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_13_07
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_13_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_13_21
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_13_21
+INFO,[btce] Last price of 1 LTC: 38.412 EUR,Dec_04_17_13_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.8 USD,Dec_04_17_13_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_13_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_13_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_13_22
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_13_35
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_13_35
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_13_36
+INFO,[btce] Last price of 1 LTC: 38.412 EUR,Dec_04_17_13_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.8 USD,Dec_04_17_13_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_13_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_13_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_13_37
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_13_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_13_51
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_13_51
+INFO,[btce] Last price of 1 LTC: 38.412 EUR,Dec_04_17_13_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.8 USD,Dec_04_17_13_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_13_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_13_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_13_53
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_14_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_14_05
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_14_06
+INFO,[btce] Last price of 1 LTC: 38.412 EUR,Dec_04_17_14_06
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_14_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_14_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_14_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_14_07
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_14_20
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_14_21
+INFO,[btce] Last price of 1 BTC: 1042.01 USD,Dec_04_17_14_21
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_14_23
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_14_23
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_14_24
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_14_24
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_14_24
+INFO,[mtgox] Last price of 1 BTC: 1197.99 USD,Dec_04_17_14_35
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_14_35
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_14_35
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_14_36
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_14_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_14_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_14_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_14_37
+INFO,[mtgox] Last price of 1 BTC: 1184.63 USD,Dec_04_17_14_50
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_14_52
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_14_53
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_14_53
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_14_53
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_14_53
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_14_54
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_14_54
+INFO,[mtgox] Last price of 1 BTC: 1184.63 USD,Dec_04_17_15_05
+INFO,[mtgox] Last price of 1 BTC: 873.5 EUR,Dec_04_17_15_05
+INFO,[btce] Last price of 1 BTC: 1042.5 USD,Dec_04_17_15_05
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_15_06
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_15_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_15_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_15_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_15_08
+INFO,[mtgox] Last price of 1 BTC: 1183.35 USD,Dec_04_17_15_21
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_15_22
+INFO,[btce] Last price of 1 BTC: 1043.85 USD,Dec_04_17_15_23
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_15_23
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_15_23
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_15_24
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_15_25
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_15_25
+INFO,[mtgox] Last price of 1 BTC: 1183.35 USD,Dec_04_17_15_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_15_35
+INFO,[btce] Last price of 1 BTC: 1045.0 USD,Dec_04_17_15_36
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_15_36
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_15_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_15_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_15_38
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_15_38
+INFO,[mtgox] Last price of 1 BTC: 1186.0 USD,Dec_04_17_15_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_15_51
+INFO,[btce] Last price of 1 BTC: 1043.85 USD,Dec_04_17_15_51
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_15_51
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_15_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_15_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_15_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_15_52
+INFO,[mtgox] Last price of 1 BTC: 1186.0 USD,Dec_04_17_16_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_16_05
+INFO,[btce] Last price of 1 BTC: 1043.0 USD,Dec_04_17_16_05
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_16_06
+INFO,[bitstamp] Last price of 1 BTC: 1108.29 USD,Dec_04_17_16_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_16_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_16_06
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_16_07
+INFO,[mtgox] Last price of 1 BTC: 1182.0 USD,Dec_04_17_16_20
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_16_21
+INFO,[btce] Last price of 1 BTC: 1043.75 USD,Dec_04_17_16_21
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_16_21
+INFO,[bitstamp] Last price of 1 BTC: 1108.29 USD,Dec_04_17_16_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_16_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_16_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_16_23
+INFO,[mtgox] Last price of 1 BTC: 1182.0 USD,Dec_04_17_16_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_16_35
+INFO,[btce] Last price of 1 BTC: 1043.75 USD,Dec_04_17_16_35
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_16_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.32 USD,Dec_04_17_16_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_16_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_16_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_16_37
+INFO,[mtgox] Last price of 1 BTC: 1182.62 USD,Dec_04_17_16_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_16_51
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_16_51
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_16_52
+INFO,[bitstamp] Last price of 1 BTC: 1105.32 USD,Dec_04_17_16_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_16_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_16_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_16_53
+INFO,[mtgox] Last price of 1 BTC: 1182.62 USD,Dec_04_17_17_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_17_05
+INFO,[btce] Last price of 1 BTC: 1043.85 USD,Dec_04_17_17_05
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_17_06
+INFO,[bitstamp] Last price of 1 BTC: 1108.34 USD,Dec_04_17_17_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_17_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_17_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_17_08
+INFO,[mtgox] Last price of 1 BTC: 1193.29 USD,Dec_04_17_17_21
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_17_21
+INFO,[btce] Last price of 1 BTC: 1044.49 USD,Dec_04_17_17_22
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_17_22
+INFO,[bitstamp] Last price of 1 BTC: 1108.34 USD,Dec_04_17_17_23
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_17_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_17_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_17_23
+INFO,[mtgox] Last price of 1 BTC: 1193.29 USD,Dec_04_17_17_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_17_35
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_17_35
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_17_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.5 USD,Dec_04_17_17_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_17_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_17_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_17_37
+INFO,[mtgox] Last price of 1 BTC: 1193.29 USD,Dec_04_17_17_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_17_51
+INFO,[btce] Last price of 1 BTC: 1044.49 USD,Dec_04_17_17_51
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_17_52
+INFO,[bitstamp] Last price of 1 BTC: 1105.5 USD,Dec_04_17_17_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_17_53
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_17_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_17_53
+INFO,[mtgox] Last price of 1 BTC: 1193.29 USD,Dec_04_17_18_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_18_05
+INFO,[btce] Last price of 1 BTC: 1044.49 USD,Dec_04_17_18_06
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_18_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.0 USD,Dec_04_17_18_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_18_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_18_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_18_07
+INFO,[mtgox] Last price of 1 BTC: 1178.02 USD,Dec_04_17_18_20
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_18_21
+INFO,[btce] Last price of 1 BTC: 1044.49 USD,Dec_04_17_18_21
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_18_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.0 USD,Dec_04_17_18_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_18_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_18_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_18_23
+INFO,[mtgox] Last price of 1 BTC: 1178.02 USD,Dec_04_17_18_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_18_35
+INFO,[btce] Last price of 1 BTC: 1044.49 USD,Dec_04_17_18_36
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_18_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.51 USD,Dec_04_17_18_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_18_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_18_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_18_37
+INFO,[mtgox] Last price of 1 BTC: 1178.01 USD,Dec_04_17_18_52
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_18_52
+INFO,[btce] Last price of 1 BTC: 1043.02 USD,Dec_04_17_18_53
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_18_54
+INFO,[bitstamp] Last price of 1 BTC: 1105.51 USD,Dec_04_17_18_54
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_18_54
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_18_55
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_18_55
+INFO,[mtgox] Last price of 1 BTC: 1178.01 USD,Dec_04_17_19_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_19_05
+INFO,[btce] Last price of 1 BTC: 1045.0 USD,Dec_04_17_19_06
+INFO,[btce] Last price of 1 LTC: 38.361 EUR,Dec_04_17_19_06
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_19_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_19_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_19_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_19_07
+INFO,[mtgox] Last price of 1 BTC: 1177.61 USD,Dec_04_17_19_20
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_19_22
+INFO,[btce] Last price of 1 BTC: 1044.48 USD,Dec_04_17_19_22
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_19_22
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_19_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_19_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_19_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_19_23
+INFO,[mtgox] Last price of 1 BTC: 1177.61 USD,Dec_04_17_19_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_19_35
+INFO,[btce] Last price of 1 BTC: 1043.0 USD,Dec_04_17_19_36
+INFO,[btce] Last price of 1 LTC: 38.33 EUR,Dec_04_17_19_36
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_19_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_19_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_19_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_19_37
+INFO,[mtgox] Last price of 1 BTC: 1177.61 USD,Dec_04_17_19_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_19_51
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_19_51
+INFO,[btce] Last price of 1 LTC: 38.45 EUR,Dec_04_17_19_51
+INFO,[bitstamp] Last price of 1 BTC: 1108.0 USD,Dec_04_17_19_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_19_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_19_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_19_53
+INFO,[mtgox] Last price of 1 BTC: 1177.61 USD,Dec_04_17_20_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_20_05
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_20_05
+INFO,[btce] Last price of 1 LTC: 38.4 EUR,Dec_04_17_20_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.99 USD,Dec_04_17_20_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_20_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_20_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_20_07
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_17_20_20
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_20_21
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_20_21
+INFO,[btce] Last price of 1 LTC: 38.44 EUR,Dec_04_17_20_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.99 USD,Dec_04_17_20_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_20_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_20_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_20_22
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_17_20_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_20_35
+INFO,[btce] Last price of 1 BTC: 1043.0 USD,Dec_04_17_20_35
+INFO,[btce] Last price of 1 LTC: 38.44 EUR,Dec_04_17_20_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.99 USD,Dec_04_17_20_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_20_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_20_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_20_37
+INFO,[mtgox] Last price of 1 BTC: 1178.21 USD,Dec_04_17_20_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_20_52
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_20_52
+INFO,[btce] Last price of 1 LTC: 38.468 EUR,Dec_04_17_20_53
+INFO,[bitstamp] Last price of 1 BTC: 1107.99 USD,Dec_04_17_20_53
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_20_53
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_20_54
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_20_54
+INFO,[mtgox] Last price of 1 BTC: 1178.21 USD,Dec_04_17_21_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_21_05
+INFO,[btce] Last price of 1 BTC: 1043.01 USD,Dec_04_17_21_06
+INFO,[btce] Last price of 1 LTC: 38.468 EUR,Dec_04_17_21_06
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_21_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_21_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_21_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_21_07
+INFO,[mtgox] Last price of 1 BTC: 1188.99 USD,Dec_04_17_21_20
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_21_21
+INFO,[btce] Last price of 1 BTC: 1044.48 USD,Dec_04_17_21_21
+INFO,[btce] Last price of 1 LTC: 38.468 EUR,Dec_04_17_21_21
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_21_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_21_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_21_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_21_23
+INFO,[mtgox] Last price of 1 BTC: 1188.99 USD,Dec_04_17_21_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_21_35
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_21_35
+INFO,[btce] Last price of 1 LTC: 38.468 EUR,Dec_04_17_21_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_21_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_21_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_21_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_21_37
+INFO,[mtgox] Last price of 1 BTC: 1179.08 USD,Dec_04_17_21_50
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_21_51
+INFO,[btce] Last price of 1 BTC: 1044.48 USD,Dec_04_17_21_51
+INFO,[btce] Last price of 1 LTC: 38.48 EUR,Dec_04_17_21_52
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_21_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_21_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_21_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_21_53
+INFO,[mtgox] Last price of 1 BTC: 1179.08 USD,Dec_04_17_22_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_22_05
+INFO,[btce] Last price of 1 BTC: 1044.47 USD,Dec_04_17_22_05
+INFO,[btce] Last price of 1 LTC: 38.48 EUR,Dec_04_17_22_06
+INFO,[bitstamp] Last price of 1 BTC: 1105.0 USD,Dec_04_17_22_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_22_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_22_06
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_22_07
+INFO,[mtgox] Last price of 1 BTC: 1188.86 USD,Dec_04_17_22_20
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_22_21
+INFO,[btce] Last price of 1 BTC: 1044.47 USD,Dec_04_17_22_22
+INFO,[btce] Last price of 1 LTC: 38.5 EUR,Dec_04_17_22_22
+INFO,[bitstamp] Last price of 1 BTC: 1105.0 USD,Dec_04_17_22_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_22_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_22_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_22_23
+INFO,[mtgox] Last price of 1 BTC: 1188.86 USD,Dec_04_17_22_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_22_35
+INFO,[btce] Last price of 1 BTC: 1044.48 USD,Dec_04_17_22_36
+INFO,[btce] Last price of 1 LTC: 38.5 EUR,Dec_04_17_22_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.3 USD,Dec_04_17_22_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_22_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_22_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_22_37
+INFO,[mtgox] Last price of 1 BTC: 1188.88 USD,Dec_04_17_22_50
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_22_51
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_22_51
+INFO,[btce] Last price of 1 LTC: 38.5 EUR,Dec_04_17_22_52
+INFO,[bitstamp] Last price of 1 BTC: 1105.3 USD,Dec_04_17_22_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_22_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_22_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_22_52
+INFO,[mtgox] Last price of 1 BTC: 1188.88 USD,Dec_04_17_23_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_23_05
+INFO,[btce] Last price of 1 BTC: 1044.0 USD,Dec_04_17_23_05
+INFO,[btce] Last price of 1 LTC: 38.5 EUR,Dec_04_17_23_06
+INFO,[bitstamp] Last price of 1 BTC: 1105.3 USD,Dec_04_17_23_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_23_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_23_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_23_07
+INFO,[mtgox] Last price of 1 BTC: 1188.88 USD,Dec_04_17_23_20
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_23_21
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_23_21
+INFO,[btce] Last price of 1 LTC: 38.5 EUR,Dec_04_17_23_21
+INFO,[bitstamp] Last price of 1 BTC: 1105.3 USD,Dec_04_17_23_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_23_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_23_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_23_22
+INFO,[mtgox] Last price of 1 BTC: 1188.88 USD,Dec_04_17_23_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_23_35
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_23_36
+INFO,[btce] Last price of 1 LTC: 38.62 EUR,Dec_04_17_23_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.0 USD,Dec_04_17_23_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_23_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_23_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_23_38
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_23_50
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_23_51
+INFO,[btce] Last price of 1 BTC: 1044.0 USD,Dec_04_17_23_51
+INFO,[btce] Last price of 1 LTC: 38.62 EUR,Dec_04_17_23_52
+INFO,[bitstamp] Last price of 1 BTC: 1105.0 USD,Dec_04_17_23_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_23_53
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_23_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_23_53
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_24_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_24_05
+INFO,[btce] Last price of 1 BTC: 1042.9 USD,Dec_04_17_24_06
+INFO,[btce] Last price of 1 LTC: 38.628 EUR,Dec_04_17_24_07
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_24_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_24_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_24_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_24_08
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_24_20
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_24_21
+INFO,[btce] Last price of 1 BTC: 1042.8 USD,Dec_04_17_24_21
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_24_22
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_24_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_24_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_24_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_24_23
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_24_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_24_35
+INFO,[btce] Last price of 1 BTC: 1043.99 USD,Dec_04_17_24_35
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_24_36
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_24_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_24_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_24_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_24_37
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_24_50
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_24_51
+INFO,[btce] Last price of 1 BTC: 1043.9 USD,Dec_04_17_24_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_24_51
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_24_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_24_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_24_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_24_53
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_25_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_25_05
+INFO,[btce] Last price of 1 BTC: 1043.9 USD,Dec_04_17_25_05
+INFO,[btce] Last price of 1 LTC: 38.55 EUR,Dec_04_17_25_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_25_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_25_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_25_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_25_08
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_25_21
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_25_22
+INFO,[btce] Last price of 1 BTC: 1042.9 USD,Dec_04_17_25_22
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_25_23
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_25_23
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_25_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_25_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_25_24
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_25_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_25_35
+INFO,[btce] Last price of 1 BTC: 1042.7 USD,Dec_04_17_25_35
+INFO,[btce] Last price of 1 LTC: 38.55 EUR,Dec_04_17_25_37
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_25_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_25_38
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_25_39
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_25_39
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_25_52
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_25_53
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_25_53
+INFO,[btce] Last price of 1 LTC: 38.55 EUR,Dec_04_17_25_54
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_25_54
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_25_55
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_25_55
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_25_55
+INFO,[mtgox] Last price of 1 BTC: 1179.19 USD,Dec_04_17_26_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_26_05
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_26_06
+INFO,[btce] Last price of 1 LTC: 38.556 EUR,Dec_04_17_26_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_26_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_26_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_26_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_26_07
+INFO,[mtgox] Last price of 1 BTC: 1188.21 USD,Dec_04_17_26_22
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_26_23
+INFO,[btce] Last price of 1 BTC: 1042.89 USD,Dec_04_17_26_23
+INFO,[btce] Last price of 1 LTC: 38.556 EUR,Dec_04_17_26_23
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_26_24
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_26_26
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_26_26
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_26_26
+INFO,[mtgox] Last price of 1 BTC: 1188.21 USD,Dec_04_17_26_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_26_35
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_26_35
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_26_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_26_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_26_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_26_38
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_26_38
+INFO,[mtgox] Last price of 1 BTC: 1192.0 USD,Dec_04_17_26_50
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_26_51
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_26_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_26_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_26_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_26_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_26_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_26_53
+INFO,[mtgox] Last price of 1 BTC: 1192.0 USD,Dec_04_17_27_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_27_05
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_27_05
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_27_06
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_27_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_27_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_27_06
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_27_07
+INFO,[mtgox] Last price of 1 BTC: 1180.12 USD,Dec_04_17_27_21
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_27_22
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_27_23
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_27_23
+INFO,[bitstamp] Last price of 1 BTC: 1105.31 USD,Dec_04_17_27_23
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_27_25
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_27_25
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_27_25
+INFO,[mtgox] Last price of 1 BTC: 1180.12 USD,Dec_04_17_27_35
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_27_35
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_27_36
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_27_37
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_27_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_27_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_27_38
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_27_38
+INFO,[mtgox] Last price of 1 BTC: 1191.99 USD,Dec_04_17_27_50
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_27_51
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_27_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_27_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_27_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_27_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_27_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_27_53
+INFO,[mtgox] Last price of 1 BTC: 1191.99 USD,Dec_04_17_28_05
+INFO,[mtgox] Last price of 1 BTC: 872.0 EUR,Dec_04_17_28_05
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_28_05
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_28_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_28_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_28_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_28_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_28_07
+INFO,[mtgox] Last price of 1 BTC: 1191.99 USD,Dec_04_17_28_20
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_28_22
+INFO,[btce] Last price of 1 BTC: 1040.11 USD,Dec_04_17_28_22
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_28_22
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_28_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_28_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_28_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_28_23
+INFO,[mtgox] Last price of 1 BTC: 1191.99 USD,Dec_04_17_28_35
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_28_35
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_28_35
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_28_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_28_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_28_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_28_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_28_37
+INFO,[mtgox] Last price of 1 BTC: 1180.52 USD,Dec_04_17_28_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_28_51
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_28_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_28_51
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_28_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_28_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_28_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_28_52
+INFO,[mtgox] Last price of 1 BTC: 1180.52 USD,Dec_04_17_29_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_29_05
+INFO,[btce] Last price of 1 BTC: 1040.12 USD,Dec_04_17_29_06
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_29_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_29_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_29_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_29_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_29_07
+INFO,[mtgox] Last price of 1 BTC: 1181.0 USD,Dec_04_17_29_20
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_29_21
+INFO,[btce] Last price of 1 BTC: 1040.12 USD,Dec_04_17_29_21
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_29_22
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_29_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_29_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_29_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_29_22
+INFO,[mtgox] Last price of 1 BTC: 1181.0 USD,Dec_04_17_29_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_29_35
+INFO,[btce] Last price of 1 BTC: 1042.89 USD,Dec_04_17_29_35
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_29_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_29_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_29_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_29_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_29_37
+INFO,[mtgox] Last price of 1 BTC: 1193.0 USD,Dec_04_17_29_50
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_29_51
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_29_51
+INFO,[btce] Last price of 1 LTC: 38.466 EUR,Dec_04_17_29_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_29_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_29_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_29_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_29_53
+INFO,[mtgox] Last price of 1 BTC: 1193.0 USD,Dec_04_17_30_05
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_30_05
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_30_06
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_30_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_30_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_30_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_30_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_30_07
+INFO,[mtgox] Last price of 1 BTC: 1181.01 USD,Dec_04_17_30_20
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_30_21
+INFO,[btce] Last price of 1 BTC: 1040.14 USD,Dec_04_17_30_21
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_30_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_30_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_30_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_30_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_30_23
+INFO,[mtgox] Last price of 1 BTC: 1181.01 USD,Dec_04_17_30_35
+INFO,[mtgox] Last price of 1 BTC: 864.01 EUR,Dec_04_17_30_35
+INFO,[btce] Last price of 1 BTC: 1040.14 USD,Dec_04_17_30_35
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_30_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_30_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_30_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_30_36
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_30_36
+INFO,[mtgox] Last price of 1 BTC: 1181.1 USD,Dec_04_17_30_51
+INFO,[mtgox] Last price of 1 BTC: 873.48 EUR,Dec_04_17_30_52
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_30_52
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_30_53
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_30_53
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_30_54
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_30_55
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_30_55
+INFO,[mtgox] Last price of 1 BTC: 1181.1 USD,Dec_04_17_31_05
+INFO,[mtgox] Last price of 1 BTC: 873.48 EUR,Dec_04_17_31_05
+INFO,[btce] Last price of 1 BTC: 1042.0 USD,Dec_04_17_31_06
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_31_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_31_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_31_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_31_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_31_08
+INFO,[mtgox] Last price of 1 BTC: 1181.1 USD,Dec_04_17_31_21
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_31_21
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_31_22
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_31_22
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_31_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_31_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_31_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_31_23
+INFO,[mtgox] Last price of 1 BTC: 1181.1 USD,Dec_04_17_31_35
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_31_35
+INFO,[btce] Last price of 1 BTC: 1042.8 USD,Dec_04_17_31_35
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_31_36
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_31_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_31_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_31_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_31_37
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_31_50
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_31_51
+INFO,[btce] Last price of 1 BTC: 1042.8 USD,Dec_04_17_31_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_31_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_31_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_31_53
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_31_54
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_31_54
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_32_05
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_32_05
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_32_05
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_32_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_32_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_32_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_32_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_32_07
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_32_20
+INFO,[mtgox] Last price of 1 BTC: 865.0 EUR,Dec_04_17_32_21
+INFO,[btce] Last price of 1 BTC: 1040.36 USD,Dec_04_17_32_21
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_32_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_32_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_32_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_32_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_32_22
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_32_35
+INFO,[mtgox] Last price of 1 BTC: 865.0 EUR,Dec_04_17_32_35
+INFO,[btce] Last price of 1 BTC: 1042.89 USD,Dec_04_17_32_36
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_32_37
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_32_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_32_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_32_38
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_32_38
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_32_50
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_32_51
+INFO,[btce] Last price of 1 BTC: 1042.8 USD,Dec_04_17_32_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_32_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.39 USD,Dec_04_17_32_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_32_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_32_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_32_53
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_33_05
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_33_05
+INFO,[btce] Last price of 1 BTC: 1042.89 USD,Dec_04_17_33_06
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_33_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_33_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_33_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_33_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_33_08
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_33_20
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_33_20
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_33_21
+INFO,[btce] Last price of 1 LTC: 38.49 EUR,Dec_04_17_33_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_33_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_33_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_33_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_33_22
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_33_36
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_33_36
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_33_37
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_33_37
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_33_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_33_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_33_38
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_33_38
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_33_50
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_33_51
+INFO,[btce] Last price of 1 BTC: 1040.36 USD,Dec_04_17_33_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_33_51
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_33_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_33_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_33_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_33_52
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_34_06
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_34_06
+INFO,[btce] Last price of 1 BTC: 1042.69 USD,Dec_04_17_34_07
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_34_07
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_34_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_34_08
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_34_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_34_08
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_34_20
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_34_20
+INFO,[btce] Last price of 1 BTC: 1042.4 USD,Dec_04_17_34_21
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_34_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.78 USD,Dec_04_17_34_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_34_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_34_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_34_23
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_34_35
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_34_36
+INFO,[btce] Last price of 1 BTC: 1041.0 USD,Dec_04_17_34_36
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_34_36
+INFO,[bitstamp] Last price of 1 BTC: 1108.76 USD,Dec_04_17_34_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_34_39
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_34_39
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_34_39
+INFO,[mtgox] Last price of 1 BTC: 1181.26 USD,Dec_04_17_34_50
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_34_50
+INFO,[btce] Last price of 1 BTC: 1041.0 USD,Dec_04_17_34_51
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_34_52
+INFO,[bitstamp] Last price of 1 BTC: 1108.76 USD,Dec_04_17_34_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_34_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_34_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_34_52
+INFO,[mtgox] Last price of 1 BTC: 1191.99 USD,Dec_04_17_35_05
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_35_05
+INFO,[btce] Last price of 1 BTC: 1041.0 USD,Dec_04_17_35_06
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_35_06
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_35_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_35_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_35_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_35_07
+INFO,[mtgox] Last price of 1 BTC: 1191.99 USD,Dec_04_17_35_20
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_35_20
+INFO,[btce] Last price of 1 BTC: 1041.0 USD,Dec_04_17_35_21
+INFO,[btce] Last price of 1 LTC: 38.6 EUR,Dec_04_17_35_21
+INFO,[bitstamp] Last price of 1 BTC: 1107.4 USD,Dec_04_17_35_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_35_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_35_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_35_23
+INFO,[mtgox] Last price of 1 BTC: 1181.55 USD,Dec_04_17_35_36
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_35_36
+INFO,[btce] Last price of 1 BTC: 1041.0 USD,Dec_04_17_35_37
+INFO,[btce] Last price of 1 LTC: 38.619 EUR,Dec_04_17_35_37
+INFO,[bitstamp] Last price of 1 BTC: 1107.45 USD,Dec_04_17_35_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_35_39
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_35_39
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_35_39
+INFO,[mtgox] Last price of 1 BTC: 1181.55 USD,Dec_04_17_35_50
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_35_51
+INFO,[btce] Last price of 1 BTC: 1041.0 USD,Dec_04_17_35_51
+INFO,[btce] Last price of 1 LTC: 38.63 EUR,Dec_04_17_35_52
+INFO,[bitstamp] Last price of 1 BTC: 1107.45 USD,Dec_04_17_35_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_35_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_35_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_35_53
+INFO,[mtgox] Last price of 1 BTC: 1181.55 USD,Dec_04_17_36_06
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_36_06
+INFO,[btce] Last price of 1 BTC: 1043.0 USD,Dec_04_17_36_06
+INFO,[btce] Last price of 1 LTC: 38.63 EUR,Dec_04_17_36_07
+INFO,[bitstamp] Last price of 1 BTC: 1108.1 USD,Dec_04_17_36_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_36_08
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_36_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_36_08
+INFO,[mtgox] Last price of 1 BTC: 1181.55 USD,Dec_04_17_36_20
+INFO,[mtgox] Last price of 1 BTC: 873.49 EUR,Dec_04_17_36_21
+INFO,[btce] Last price of 1 BTC: 1041.02 USD,Dec_04_17_36_21
+INFO,[btce] Last price of 1 LTC: 38.63 EUR,Dec_04_17_36_22
+INFO,[bitstamp] Last price of 1 BTC: 1108.1 USD,Dec_04_17_36_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_17_36_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_17_36_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_17_36_23

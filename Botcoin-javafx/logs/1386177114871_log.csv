@@ -1,0 +1,59 @@
+level,message,time
+INFO,Initial Rule added:sell 1.337 BTC on mtgox if price goes below 74.0 USD,Dec_04_18_11_57
+INFO,Initial Rule added:buy 1.9 LTC on btce if price goes below 2.3 USD,Dec_04_18_11_57
+INFO,Initial Rule added:sell 0.4 BTC on bitstamp if price goes above 150.4 USD,Dec_04_18_11_57
+INFO,Initial Rule added:buy 0.001 BTC on mtgox if price goes above 1.0 USD,Dec_04_18_11_57
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_18_12_05
+INFO,[mtgox] Last price of 1 BTC: 866.0 EUR,Dec_04_18_12_06
+INFO,[btce] Last price of 1 BTC: 1045.99 USD,Dec_04_18_12_06
+INFO,[btce] Last price of 1 LTC: 39.27 USD,Dec_04_18_12_07
+INFO,[bitstamp] Last price of 1 BTC: 1140.0 USD,Dec_04_18_12_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_18_12_09
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_12_10
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_12_10
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_18_12_20
+INFO,[mtgox] Last price of 1 BTC: 866.0 EUR,Dec_04_18_12_20
+INFO,[btce] Last price of 1 BTC: 1045.98 USD,Dec_04_18_12_20
+INFO,[btce] Last price of 1 LTC: 39.0 USD,Dec_04_18_12_21
+INFO,[bitstamp] Last price of 1 BTC: 1140.0 USD,Dec_04_18_12_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_18_12_21
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_12_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_12_22
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_18_12_38
+INFO,[mtgox] Last price of 1 BTC: 870.0 EUR,Dec_04_18_12_38
+INFO,[btce] Last price of 1 BTC: 1044.96 USD,Dec_04_18_12_39
+INFO,[btce] Last price of 1 LTC: 39.27 USD,Dec_04_18_12_39
+INFO,[bitstamp] Last price of 1 BTC: 1135.0 USD,Dec_04_18_12_39
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_18_12_42
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_12_42
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_12_43
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_18_12_50
+INFO,[mtgox] Last price of 1 BTC: 870.0 EUR,Dec_04_18_12_50
+INFO,[btce] Last price of 1 BTC: 1044.96 USD,Dec_04_18_12_51
+INFO,[btce] Last price of 1 LTC: 39.01 USD,Dec_04_18_12_51
+INFO,[bitstamp] Last price of 1 BTC: 1135.0 USD,Dec_04_18_12_51
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_18_12_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_12_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_12_52
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_18_13_06
+INFO,[mtgox] Last price of 1 BTC: 870.0 EUR,Dec_04_18_13_07
+INFO,[btce] Last price of 1 BTC: 1044.73 USD,Dec_04_18_13_07
+INFO,[btce] Last price of 1 LTC: 39.19 USD,Dec_04_18_13_07
+INFO,[bitstamp] Last price of 1 BTC: 1138.0 USD,Dec_04_18_13_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_18_13_08
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_13_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_13_08
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_18_13_20
+INFO,[mtgox] Last price of 1 BTC: 870.0 EUR,Dec_04_18_13_20
+INFO,[btce] Last price of 1 BTC: 1043.11 USD,Dec_04_18_13_20
+INFO,[btce] Last price of 1 LTC: 39.111 USD,Dec_04_18_13_21
+INFO,[bitstamp] Last price of 1 BTC: 1138.0 USD,Dec_04_18_13_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_18_13_24
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_13_25
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_13_25
+INFO,Active rules(4) : Id=1 :  sell 10.3 BTC when price drops below 75$
+Id=2 :  buy 89.9 BTC when price dropw below 60$
+Id=3 :  sell 7 BTC when price dropw below 150.4$
+Id=4 : 
+,Dec_04_18_13_25
+WARNING,Executing rule : buy 0.001 BTC on mtgox if price goes above 1.0 USD,Dec_04_18_13_25

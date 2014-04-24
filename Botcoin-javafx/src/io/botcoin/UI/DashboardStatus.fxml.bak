@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="613.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml" fx:controller="io.botcoin.UI.DashboardStatusController">
+  <children>
+    <Pane id="statusPane" prefHeight="613.0" prefWidth="604.0">
+      <children>
+        <Text layoutX="238.0" layoutY="77.0" opacity="0.75" strokeType="OUTSIDE" strokeWidth="0.0">
+          <font>
+            <Font name="Arial" size="30.0" fx:id="x3" />
+          </font>
+        </Text>
+        <Text fx:id="titleActive" layoutX="17.0" layoutY="37.0" opacity="0.75" strokeType="OUTSIDE" strokeWidth="0.0" text="Active rules ( )">
+          <font>
+            <Font name="Arial" size="24.0" fx:id="x1" />
+          </font>
+        </Text>
+        <Button fx:id="clearBtn" layoutX="20.0" layoutY="445.0" mnemonicParsing="false" text="Clear Executed" />
+        <Text fx:id="titleExecuted" font="$x1" layoutX="18.0" layoutY="257.0" opacity="0.75" strokeType="OUTSIDE" strokeWidth="0.0" text="Executed orders ( )" />
+        <ScrollPane layoutX="19.0" layoutY="54.0" prefHeight="163.0" prefWidth="547.0">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+              <children>
+                <ListView fx:id="listActive" editable="true" layoutY="-1.0" prefHeight="232.0" prefWidth="531.0" />
+              </children>
+            </AnchorPane>
+          </content>
+        </ScrollPane>
+        <ScrollPane layoutX="20.0" layoutY="276.0" prefHeight="163.0" prefWidth="547.0">
+          <content>
+            <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+              <children>
+                <ListView fx:id="listExecuted" editable="true" layoutY="-1.0" prefHeight="232.0" prefWidth="531.0" />
+              </children>
+            </AnchorPane>
+          </content>
+        </ScrollPane>
+      </children>
+      <stylesheets>
+        <URL value="@dashboard.css" />
+      </stylesheets>
+    </Pane>
+  </children>
+  <stylesheets>
+    <URL value="@dashboard.css" />
+  </stylesheets>
+</AnchorPane>

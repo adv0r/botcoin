@@ -1,0 +1,407 @@
+level,message,time
+INFO,Initial Rule added:sell 0.01 BTC on mtgox if price goes below 74.0 USD,Dec_16_11_12_10
+INFO,Initial Rule added:buy 1.9 LTC on btce if price goes below 2.3 USD,Dec_16_11_12_10
+INFO,Initial Rule added:sell 0.4 BTC on bitstamp if price goes above 150.4 USD,Dec_16_11_12_10
+INFO,Initial Rule added:buy 0.037 BTC on mtgox if price goes above 10.0 USD,Dec_16_11_12_10
+INFO,Initial Rule added:buy 0.02 BTC on mtgox if price goes above 1.0 USD,Dec_16_11_12_10
+INFO,Initial Rule added:buy 0.11 BTC on btce if price goes above 10.0 USD,Dec_16_11_12_10
+INFO,Initial Rule added:buy 0.001 BTC on btce if price goes above 10.0 USD,Dec_16_11_12_10
+INFO,Initial Rule added:buy 0.001 LTC on btce if price goes below 50.0 USD,Dec_16_11_12_10
+SEVERE,javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target,Dec_16_11_12_12
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_12
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@277911cf,Dec_16_11_12_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_12_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@c21990a,Dec_16_11_12_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_12_18
+INFO,[btce] Last price of 1 BTC: 818.0 USD,Dec_16_11_12_19
+INFO,[btce] Last price of 1 LTC: 29.22 USD,Dec_16_11_12_19
+INFO,[bitstamp] Last price of 1 BTC: 819.98 USD,Dec_16_11_12_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_12_19
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_12_19
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@3710fc5f,Dec_16_11_12_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_12_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@255c8601,Dec_16_11_12_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_12_33
+INFO,[btce] Last price of 1 BTC: 817.56 USD,Dec_16_11_12_34
+INFO,[btce] Last price of 1 LTC: 29.21 USD,Dec_16_11_12_34
+INFO,[bitstamp] Last price of 1 BTC: 819.98 USD,Dec_16_11_12_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_12_35
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_12_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@2212778e,Dec_16_11_12_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_12_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@1a3b7d72,Dec_16_11_12_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_12_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_12_48
+INFO,[btce] Last price of 1 BTC: 817.4 USD,Dec_16_11_12_48
+INFO,[btce] Last price of 1 LTC: 29.21 USD,Dec_16_11_12_49
+INFO,[bitstamp] Last price of 1 BTC: 814.0 USD,Dec_16_11_12_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_12_49
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_12_49
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@53d09f68,Dec_16_11_13_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_13_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7779fc37,Dec_16_11_13_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_13_03
+INFO,[btce] Last price of 1 BTC: 817.4 USD,Dec_16_11_13_04
+INFO,[btce] Last price of 1 LTC: 29.21 USD,Dec_16_11_13_04
+INFO,[bitstamp] Last price of 1 BTC: 814.0 USD,Dec_16_11_13_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_13_05
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_13_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@47a86860,Dec_16_11_13_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_13_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@66dcfdf9,Dec_16_11_13_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_13_18
+INFO,[btce] Last price of 1 BTC: 817.17 USD,Dec_16_11_13_18
+INFO,[btce] Last price of 1 LTC: 29.209 USD,Dec_16_11_13_19
+INFO,[bitstamp] Last price of 1 BTC: 815.0 USD,Dec_16_11_13_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_13_19
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_13_19
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@17dca7b8,Dec_16_11_13_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_13_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@2bad1914,Dec_16_11_13_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_13_33
+INFO,[btce] Last price of 1 BTC: 817.1 USD,Dec_16_11_13_34
+INFO,[btce] Last price of 1 LTC: 29.121 USD,Dec_16_11_13_34
+INFO,[bitstamp] Last price of 1 BTC: 819.79 USD,Dec_16_11_13_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_13_34
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_13_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@4dbed645,Dec_16_11_13_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_13_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@651b5298,Dec_16_11_13_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_13_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_13_48
+INFO,[btce] Last price of 1 BTC: 817.1 USD,Dec_16_11_13_49
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_13_49
+INFO,[bitstamp] Last price of 1 BTC: 817.47 USD,Dec_16_11_13_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_13_50
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_13_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@2751ad0e,Dec_16_11_14_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_14_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@13f91a78,Dec_16_11_14_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_14_03
+INFO,[btce] Last price of 1 BTC: 817.0 USD,Dec_16_11_14_04
+INFO,[btce] Last price of 1 LTC: 29.11 USD,Dec_16_11_14_04
+INFO,[bitstamp] Last price of 1 BTC: 817.47 USD,Dec_16_11_14_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_14_04
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_14_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@6e6f4675,Dec_16_11_14_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_14_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@710c93d7,Dec_16_11_14_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_14_18
+INFO,[btce] Last price of 1 BTC: 817.1 USD,Dec_16_11_14_19
+INFO,[btce] Last price of 1 LTC: 29.1 USD,Dec_16_11_14_19
+INFO,[bitstamp] Last price of 1 BTC: 814.0 USD,Dec_16_11_14_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_14_20
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_14_20
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@2299a63a,Dec_16_11_14_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_14_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7b57be31,Dec_16_11_14_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_14_33
+INFO,[btce] Last price of 1 BTC: 817.01 USD,Dec_16_11_14_34
+INFO,[btce] Last price of 1 LTC: 29.1 USD,Dec_16_11_14_34
+INFO,[bitstamp] Last price of 1 BTC: 814.0 USD,Dec_16_11_14_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_14_35
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_14_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@45e3380f,Dec_16_11_14_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_14_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@1b568b31,Dec_16_11_14_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_14_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_14_48
+INFO,[btce] Last price of 1 BTC: 817.0 USD,Dec_16_11_14_49
+INFO,[btce] Last price of 1 LTC: 29.1 USD,Dec_16_11_14_49
+INFO,[bitstamp] Last price of 1 BTC: 814.0 USD,Dec_16_11_14_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_14_49
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_14_49
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@2cdfaddd,Dec_16_11_15_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_15_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@189bcf69,Dec_16_11_15_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_15_03
+INFO,[btce] Last price of 1 BTC: 817.56 USD,Dec_16_11_15_03
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_15_04
+INFO,[bitstamp] Last price of 1 BTC: 813.51 USD,Dec_16_11_15_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_15_04
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_15_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@41f55780,Dec_16_11_15_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_15_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@5b776efd,Dec_16_11_15_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_15_18
+INFO,[btce] Last price of 1 BTC: 817.56 USD,Dec_16_11_15_19
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_15_19
+INFO,[bitstamp] Last price of 1 BTC: 814.01 USD,Dec_16_11_15_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_15_20
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_15_20
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@735a5f8f,Dec_16_11_15_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_15_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7270b7c6,Dec_16_11_15_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_15_33
+INFO,[btce] Last price of 1 BTC: 823.68 USD,Dec_16_11_15_33
+INFO,[btce] Last price of 1 LTC: 29.1 USD,Dec_16_11_15_34
+INFO,[bitstamp] Last price of 1 BTC: 814.01 USD,Dec_16_11_15_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_15_35
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_15_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@10c77fcc,Dec_16_11_15_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_15_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@15808c49,Dec_16_11_15_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_15_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_15_48
+INFO,[btce] Last price of 1 BTC: 817.56 USD,Dec_16_11_15_49
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_15_49
+INFO,[bitstamp] Last price of 1 BTC: 814.01 USD,Dec_16_11_15_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_15_50
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_15_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@1a20433b,Dec_16_11_16_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_16_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@4e5c6aea,Dec_16_11_16_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_16_03
+INFO,[btce] Last price of 1 BTC: 819.35 USD,Dec_16_11_16_04
+INFO,[btce] Last price of 1 LTC: 29.2 USD,Dec_16_11_16_04
+INFO,[bitstamp] Last price of 1 BTC: 812.25 USD,Dec_16_11_16_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_16_05
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_16_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@1aec4ce,Dec_16_11_16_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_16_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@128a9b7f,Dec_16_11_16_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_16_18
+INFO,[btce] Last price of 1 BTC: 817.67 USD,Dec_16_11_16_19
+INFO,[btce] Last price of 1 LTC: 29.2 USD,Dec_16_11_16_19
+INFO,[bitstamp] Last price of 1 BTC: 812.25 USD,Dec_16_11_16_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_16_20
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_16_21
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7dee8a4b,Dec_16_11_16_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_16_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7427c4b0,Dec_16_11_16_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_16_33
+INFO,[btce] Last price of 1 BTC: 821.0 USD,Dec_16_11_16_33
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_16_34
+INFO,[bitstamp] Last price of 1 BTC: 818.0 USD,Dec_16_11_16_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_16_34
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_16_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@3a72c63f,Dec_16_11_16_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_16_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@375112e4,Dec_16_11_16_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_16_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_16_48
+INFO,[btce] Last price of 1 BTC: 819.23 USD,Dec_16_11_16_49
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_16_49
+INFO,[bitstamp] Last price of 1 BTC: 812.27 USD,Dec_16_11_16_50
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_16_50
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_16_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@53f21ba0,Dec_16_11_17_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_17_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@3f90482,Dec_16_11_17_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_17_03
+INFO,[btce] Last price of 1 BTC: 823.68 USD,Dec_16_11_17_04
+INFO,[btce] Last price of 1 LTC: 29.14 USD,Dec_16_11_17_04
+INFO,[bitstamp] Last price of 1 BTC: 812.28 USD,Dec_16_11_17_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_17_05
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_17_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@3ff581be,Dec_16_11_17_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_17_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@32c1ebfe,Dec_16_11_17_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_17_18
+INFO,[btce] Last price of 1 BTC: 823.68 USD,Dec_16_11_17_19
+INFO,[btce] Last price of 1 LTC: 29.199 USD,Dec_16_11_17_19
+INFO,[bitstamp] Last price of 1 BTC: 812.28 USD,Dec_16_11_17_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_17_20
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_17_20
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@577c6d76,Dec_16_11_17_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_17_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7915c214,Dec_16_11_17_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_17_33
+INFO,[btce] Last price of 1 BTC: 823.68 USD,Dec_16_11_17_34
+INFO,[btce] Last price of 1 LTC: 29.199 USD,Dec_16_11_17_34
+INFO,[bitstamp] Last price of 1 BTC: 815.0 USD,Dec_16_11_17_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_17_35
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_17_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@149c32b,Dec_16_11_17_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_17_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@42c5d9ca,Dec_16_11_17_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_17_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_17_48
+INFO,[btce] Last price of 1 BTC: 823.6 USD,Dec_16_11_17_49
+INFO,[btce] Last price of 1 LTC: 29.271 USD,Dec_16_11_17_49
+INFO,[bitstamp] Last price of 1 BTC: 812.73 USD,Dec_16_11_17_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_17_50
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_17_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@19dcef1a,Dec_16_11_18_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_18_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@6a4be2a5,Dec_16_11_18_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_18_03
+INFO,[btce] Last price of 1 BTC: 820.5 USD,Dec_16_11_18_04
+INFO,[btce] Last price of 1 LTC: 29.15 USD,Dec_16_11_18_04
+INFO,[bitstamp] Last price of 1 BTC: 810.0 USD,Dec_16_11_18_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_18_05
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_18_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@34ac69b5,Dec_16_11_18_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_18_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@5a7e3b1d,Dec_16_11_18_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_18_18
+INFO,[btce] Last price of 1 BTC: 822.0 USD,Dec_16_11_18_19
+INFO,[btce] Last price of 1 LTC: 29.15 USD,Dec_16_11_18_19
+INFO,[bitstamp] Last price of 1 BTC: 810.0 USD,Dec_16_11_18_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_18_20
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_18_20
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@43986e78,Dec_16_11_18_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_18_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@cbb5ec0,Dec_16_11_18_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_18_33
+INFO,[btce] Last price of 1 BTC: 822.0 USD,Dec_16_11_18_34
+INFO,[btce] Last price of 1 LTC: 29.13 USD,Dec_16_11_18_34
+INFO,[bitstamp] Last price of 1 BTC: 816.89 USD,Dec_16_11_18_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_18_35
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_18_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@4f47a276,Dec_16_11_18_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_18_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@165051aa,Dec_16_11_18_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_18_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_18_48
+INFO,[btce] Last price of 1 BTC: 819.24 USD,Dec_16_11_18_49
+INFO,[btce] Last price of 1 LTC: 29.15 USD,Dec_16_11_18_49
+INFO,[bitstamp] Last price of 1 BTC: 810.0 USD,Dec_16_11_18_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_18_50
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_18_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@2faeeae6,Dec_16_11_19_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_19_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@476cea48,Dec_16_11_19_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_19_03
+INFO,[btce] Last price of 1 BTC: 821.9 USD,Dec_16_11_19_04
+INFO,[btce] Last price of 1 LTC: 29.13 USD,Dec_16_11_19_04
+INFO,[bitstamp] Last price of 1 BTC: 816.89 USD,Dec_16_11_19_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_19_05
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_19_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@248dc612,Dec_16_11_19_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_19_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@40327190,Dec_16_11_19_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_19_18
+INFO,[btce] Last price of 1 BTC: 820.0 USD,Dec_16_11_19_19
+INFO,[btce] Last price of 1 LTC: 29.266 USD,Dec_16_11_19_19
+INFO,[bitstamp] Last price of 1 BTC: 810.06 USD,Dec_16_11_19_19
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_19_19
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_19_19
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7ae20eb,Dec_16_11_19_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_19_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@63d6da00,Dec_16_11_19_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_19_33
+INFO,[btce] Last price of 1 BTC: 821.9 USD,Dec_16_11_19_34
+INFO,[btce] Last price of 1 LTC: 29.25 USD,Dec_16_11_19_34
+INFO,[bitstamp] Last price of 1 BTC: 810.05 USD,Dec_16_11_19_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_19_35
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_19_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@6895a6ed,Dec_16_11_19_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_19_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@44939656,Dec_16_11_19_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_19_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_19_48
+INFO,[btce] Last price of 1 BTC: 821.0 USD,Dec_16_11_19_49
+INFO,[btce] Last price of 1 LTC: 29.25 USD,Dec_16_11_19_49
+INFO,[bitstamp] Last price of 1 BTC: 810.06 USD,Dec_16_11_19_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_19_50
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_19_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@793af9a,Dec_16_11_20_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_20_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@38c5854,Dec_16_11_20_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_20_03
+INFO,[btce] Last price of 1 BTC: 821.9 USD,Dec_16_11_20_04
+INFO,[btce] Last price of 1 LTC: 29.218 USD,Dec_16_11_20_04
+INFO,[bitstamp] Last price of 1 BTC: 810.06 USD,Dec_16_11_20_05
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_20_05
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_20_05
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@566b616a,Dec_16_11_20_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_20_18
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@4922c849,Dec_16_11_20_18
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_18
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_20_18
+INFO,[btce] Last price of 1 BTC: 819.23 USD,Dec_16_11_20_19
+INFO,[btce] Last price of 1 LTC: 29.07 USD,Dec_16_11_20_19
+INFO,[bitstamp] Last price of 1 BTC: 810.06 USD,Dec_16_11_20_20
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_20_20
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_20_20
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7d7e88e3,Dec_16_11_20_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_20_33
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@7d662625,Dec_16_11_20_33
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_33
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_20_33
+INFO,[btce] Last price of 1 BTC: 819.0 USD,Dec_16_11_20_34
+INFO,[btce] Last price of 1 LTC: 29.07 USD,Dec_16_11_20_34
+INFO,[bitstamp] Last price of 1 BTC: 819.98 USD,Dec_16_11_20_34
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_20_34
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_20_35
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@5a171d45,Dec_16_11_20_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_20_48
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@5febdbbe,Dec_16_11_20_48
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_20_48
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_20_48
+INFO,[btce] Last price of 1 BTC: 818.1 USD,Dec_16_11_20_49
+INFO,[btce] Last price of 1 LTC: 29.103 USD,Dec_16_11_20_49
+INFO,[bitstamp] Last price of 1 BTC: 810.0 USD,Dec_16_11_20_49
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_20_49
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_20_50
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@5380c16e,Dec_16_11_21_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_21_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 USD,Dec_16_11_21_03
+SEVERE,Error with MtGox Query:[Ljava.lang.StackTraceElement;@64f8de72,Dec_16_11_21_03
+SEVERE,Unexpected token END OF FILE at position 0.,Dec_16_11_21_03
+INFO,[mtgox] Last price of 1 BTC: 0.0 EUR,Dec_16_11_21_03
+INFO,[btce] Last price of 1 BTC: 817.31 USD,Dec_16_11_21_04
+INFO,[btce] Last price of 1 LTC: 29.189 USD,Dec_16_11_21_04
+INFO,[bitstamp] Last price of 1 BTC: 819.0 USD,Dec_16_11_21_04
+INFO,[btce] Balance updated :Balance : 0.00315716 BTC; 0.00315716 LTC; 0.99755187 USD; ,Dec_16_11_21_04
+INFO,[bitstamp] Balance updated :Balance : 1.9028E-4 BTC; 23.67 USD; ,Dec_16_11_21_05

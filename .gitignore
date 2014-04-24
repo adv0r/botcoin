@@ -1,0 +1,18 @@
+Botcoin/resources/
+Botcoin/resources/data/.keys/
+/Botcoin/resources/data/api-keys.json
+node-prototype/logs/
+/Botcoin/nbproject/private/
+.DS_Store
+/Botcoin/build/
+/Botcoin/dist/
+/sample_AdvancedMedia/nbproject/private/
+/sample_AdvancedMedia/dist/
+/sample_AdvancedMedia/build/
+node-prototype/cfg/config.json
+node-prototype/cfg/nico_strategy.csv
+node-prototype/remote scripts/
+node-prototype/runInBackground.sh
+node-prototype/tests/
+Botcoin/logs
+test_credentials_nico.txt

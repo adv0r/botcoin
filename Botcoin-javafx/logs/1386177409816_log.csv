@@ -1,0 +1,37 @@
+level,message,time
+INFO,Initial Rule added:sell 1.337 BTC on mtgox if price goes below 74.0 USD,Dec_04_18_16_52
+INFO,Initial Rule added:buy 1.9 LTC on btce if price goes below 2.3 USD,Dec_04_18_16_52
+INFO,Initial Rule added:sell 0.4 BTC on bitstamp if price goes above 150.4 USD,Dec_04_18_16_52
+INFO,Initial Rule added:buy 0.001 BTC on mtgox if price goes above 1.0 USD,Dec_04_18_16_52
+SEVERE,Post Data: nonce=1386177413025000,Dec_04_18_16_53
+SEVERE,Query to :https://data.mtgox.com/api/2/MONEY/INFO   HTTP response : 
+,Dec_04_18_16_53
+SEVERE,<html>,Dec_04_18_16_53
+SEVERE,<head><title>502 Bad Gateway</title></head>,Dec_04_18_16_53
+SEVERE,<body bgcolor="white">,Dec_04_18_16_53
+SEVERE,<center><h1>502 Bad Gateway</h1></center>,Dec_04_18_16_53
+SEVERE,<hr><center>nginx/1.4.1</center>,Dec_04_18_16_53
+SEVERE,</body>,Dec_04_18_16_53
+SEVERE,</html>,Dec_04_18_16_53
+SEVERE,Unexpected character (<) at position 0.,Dec_04_18_16_53
+SEVERE,Unexpected character (<) at position 0.,Dec_04_18_16_53
+INFO,[mtgox] Last price of 1 BTC: 1191.0 USD,Dec_04_18_17_00
+INFO,[mtgox] Last price of 1 BTC: 870.0 EUR,Dec_04_18_17_00
+INFO,[btce] Last price of 1 BTC: 1045.99 USD,Dec_04_18_17_01
+INFO,[btce] Last price of 1 LTC: 39.14 USD,Dec_04_18_17_01
+INFO,[bitstamp] Last price of 1 BTC: 1138.69 USD,Dec_04_18_17_01
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_17_02
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_17_02
+INFO,[mtgox] Last price of 1 BTC: 1191.0 USD,Dec_04_18_17_11
+INFO,[mtgox] Last price of 1 BTC: 870.0 EUR,Dec_04_18_17_11
+INFO,[btce] Last price of 1 BTC: 1045.98 USD,Dec_04_18_17_12
+INFO,[btce] Last price of 1 LTC: 39.14 USD,Dec_04_18_17_12
+INFO,[bitstamp] Last price of 1 BTC: 1132.0 USD,Dec_04_18_17_12
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_18_17_13
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_18_17_13
+INFO,Active rules(4) : Id=1 :  sell 10.3 BTC when price drops below 75$
+Id=2 :  buy 89.9 BTC when price dropw below 60$
+Id=3 :  sell 7 BTC when price dropw below 150.4$
+Id=4 : 
+,Dec_04_18_17_13
+WARNING,Executing rule : buy 0.001 BTC on mtgox if price goes above 1.0 USD,Dec_04_18_17_13

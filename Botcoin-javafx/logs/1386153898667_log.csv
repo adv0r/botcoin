@@ -1,0 +1,292 @@
+level,message,time
+INFO,Initial Rule added:buy 0.01 BTC on mtgox if price goes below 800.0 USD,Dec_04_11_45_01
+INFO,Initial Rule added:buy 0.012 BTC on mtgox if price goes above 5.0 USD,Dec_04_11_45_01
+INFO,Initial Rule added:sell 0.01 BTC on btce if price goes below 10000.0 USD,Dec_04_11_45_01
+INFO,[mtgox] Last price of 1 BTC: 1177.12 USD,Dec_04_11_45_07
+INFO,[mtgox] Last price of 1 BTC: 845.7 EUR,Dec_04_11_45_08
+INFO,[btce] Last price of 1 BTC: 1028.5 USD,Dec_04_11_45_08
+INFO,[btce] Last price of 1 LTC: 39.4 EUR,Dec_04_11_45_09
+INFO,[bitstamp] Last price of 1 BTC: 1085.0 USD,Dec_04_11_45_09
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_45_09
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_45_09
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_45_10
+INFO,[mtgox] Last price of 1 BTC: 1177.12 USD,Dec_04_11_45_22
+INFO,[mtgox] Last price of 1 BTC: 845.7 EUR,Dec_04_11_45_22
+INFO,[btce] Last price of 1 BTC: 1028.5 USD,Dec_04_11_45_22
+INFO,[btce] Last price of 1 LTC: 39.4 EUR,Dec_04_11_45_23
+INFO,[bitstamp] Last price of 1 BTC: 1085.0 USD,Dec_04_11_45_23
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_45_23
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_45_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_45_24
+INFO,[mtgox] Last price of 1 BTC: 1177.12 USD,Dec_04_11_45_37
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_45_38
+INFO,[btce] Last price of 1 BTC: 1028.89 USD,Dec_04_11_45_38
+INFO,[btce] Last price of 1 LTC: 39.375 EUR,Dec_04_11_45_38
+INFO,[bitstamp] Last price of 1 BTC: 1085.02 USD,Dec_04_11_45_39
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_45_39
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_45_39
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_45_39
+INFO,[mtgox] Last price of 1 BTC: 1180.0 USD,Dec_04_11_45_53
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_45_53
+INFO,[btce] Last price of 1 BTC: 1028.89 USD,Dec_04_11_45_53
+INFO,[btce] Last price of 1 LTC: 39.375 EUR,Dec_04_11_45_53
+INFO,[bitstamp] Last price of 1 BTC: 1085.02 USD,Dec_04_11_45_53
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_45_54
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_45_54
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_45_54
+INFO,[mtgox] Last price of 1 BTC: 1180.0 USD,Dec_04_11_46_07
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_46_08
+INFO,[btce] Last price of 1 BTC: 1028.89 USD,Dec_04_11_46_08
+INFO,[btce] Last price of 1 LTC: 39.4 EUR,Dec_04_11_46_09
+INFO,[bitstamp] Last price of 1 BTC: 1085.1 USD,Dec_04_11_46_09
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_46_09
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_46_10
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_46_11
+INFO,[mtgox] Last price of 1 BTC: 1179.0 USD,Dec_04_11_46_22
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_46_22
+SEVERE,Post Data: ,Dec_04_11_46_23
+SEVERE,Query to :https://btc-e.com/api/2/btc_usd/ticker(method=)   HTTP response : 
+,Dec_04_11_46_23
+SEVERE,<!DOCTYPE html>,Dec_04_11_46_23
+SEVERE,<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->,Dec_04_11_46_23
+SEVERE,<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->,Dec_04_11_46_23
+SEVERE,<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->,Dec_04_11_46_23
+SEVERE,<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->,Dec_04_11_46_23
+SEVERE,<head>,Dec_04_11_46_23
+SEVERE,<meta http-equiv="set-cookie" content="cf_use_ob=0; expires=Wed  04-Dec-13 10:46:54 GMT; path=/">,Dec_04_11_46_23
+SEVERE,<title>btc-e.com | 502: Bad gateway</title>,Dec_04_11_46_23
+SEVERE,<meta charset="UTF-8"/>,Dec_04_11_46_23
+SEVERE,<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>,Dec_04_11_46_23
+SEVERE,<meta http-equiv="X-UA-Compatible" content="IE=Edge chrome=1"/>,Dec_04_11_46_23
+SEVERE,<meta name="robots" content="noindex  nofollow"/>,Dec_04_11_46_23
+SEVERE,<meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1"/>,Dec_04_11_46_23
+SEVERE,<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen projection"/>,Dec_04_11_46_23
+SEVERE,<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen projection" /><![endif]-->,Dec_04_11_46_23
+SEVERE,<style type="text/css">body{margin:0;padding:0}</style>,Dec_04_11_46_23
+SEVERE,<!--[if lt IE 9]><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><![endif]-->,Dec_04_11_46_23
+SEVERE,<!--[if gte IE 9]><!--><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.0/zepto.min.js"></script><!--<![endif]-->,Dec_04_11_46_23
+SEVERE,<script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script>,Dec_04_11_46_23
+SEVERE,</head>,Dec_04_11_46_23
+SEVERE,<body>,Dec_04_11_46_23
+SEVERE,<div id="cf-wrapper">,Dec_04_11_46_23
+SEVERE,<div id="cf-error-details" class="cf-error-details-wrapper">,Dec_04_11_46_23
+SEVERE,<div class="cf-wrapper cf-error-overview">,Dec_04_11_46_23
+SEVERE,<h1>,Dec_04_11_46_23
+SEVERE,<span class="cf-error-type" data-translate="error">Error</span>,Dec_04_11_46_23
+SEVERE,<span class="cf-error-code">502</span>,Dec_04_11_46_23
+SEVERE,<small style="font-size:15px;white-space:nowrap">Ray ID: d77e99f29a80731</small>,Dec_04_11_46_23
+SEVERE,</h1>,Dec_04_11_46_23
+SEVERE,<h2 class="cf-subheadline" data-translate="error_desc">Bad gateway</h2>,Dec_04_11_46_23
+SEVERE,</div> ,Dec_04_11_46_23
+SEVERE,<div class="cf-section cf-highlight cf-status-display">,Dec_04_11_46_23
+SEVERE,<div class="cf-wrapper">,Dec_04_11_46_23
+SEVERE,<div class="cf-columns cols-3">,Dec_04_11_46_23
+SEVERE,<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">,Dec_04_11_46_23
+SEVERE,<div class="cf-icon-error-container">,Dec_04_11_46_23
+SEVERE,<i class="cf-icon cf-icon-browser"></i>,Dec_04_11_46_23
+SEVERE,<i class="cf-icon-status cf-icon-ok"></i>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,<span class="cf-status-desc" data-translate="browser_desc">You</span>,Dec_04_11_46_23
+SEVERE,<h3 class="cf-status-name" data-translate="browser_label">Browser</h3>,Dec_04_11_46_23
+SEVERE,<span class="cf-status-label" data-translate="browser_status_label">Working</span>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">,Dec_04_11_46_23
+SEVERE,<div class="cf-icon-error-container">,Dec_04_11_46_23
+SEVERE,<i class="cf-icon cf-icon-cloud"></i>,Dec_04_11_46_23
+SEVERE,<i class="cf-icon-status cf-icon-ok"></i>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,<span class="cf-status-desc" data-translate="cloud_desc">Amsterdam</span>,Dec_04_11_46_23
+SEVERE,<h3 class="cf-status-name" data-translate="cloud_label">CloudFlare</h3>,Dec_04_11_46_23
+SEVERE,<span class="cf-status-label" data-translate="cloud_status_label">Working</span>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">,Dec_04_11_46_23
+SEVERE,<div class="cf-icon-error-container">,Dec_04_11_46_23
+SEVERE,<i class="cf-icon cf-icon-server"></i>,Dec_04_11_46_23
+SEVERE,<i class="cf-icon-status cf-icon-error"></i>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,<span class="cf-status-desc" data-translate="server_desc">btc-e.com</span>,Dec_04_11_46_23
+SEVERE,<h3 class="cf-status-name" data-translate="server_label">Host</h3>,Dec_04_11_46_23
+SEVERE,<span class="cf-status-label" data-translate="server_status_label">Error</span>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,</div> ,Dec_04_11_46_23
+SEVERE,<div class="cf-section cf-wrapper">,Dec_04_11_46_23
+SEVERE,<div class="cf-columns two">,Dec_04_11_46_23
+SEVERE,<div class="cf-column">,Dec_04_11_46_23
+SEVERE,<h2 data-translate="what_happened">What happened?</h2>,Dec_04_11_46_23
+SEVERE,<p>The web server reported a bad gateway error.</p>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,<div class="cf-column">,Dec_04_11_46_23
+SEVERE,<h2 data-translate="what_can_i_do">What can I do?</h2>,Dec_04_11_46_23
+SEVERE,<p data-translate="try_again_in_a_few">Please try again in a few minutes.</p>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,</div>,Dec_04_11_46_23
+SEVERE,</div> ,Dec_04_11_46_23
+SEVERE,<div class="cf-error-footer cf-wrapper">,Dec_04_11_46_23
+SEVERE,<p>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-item">CloudFlare Ray ID: <strong>d77e99f29a80731</strong></span>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-separator">&bull;</span>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-item"><span data-translate="your_ip">Your IP</span>: 83.33.223.35</span>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-separator">&bull;</span>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-item"><a data-orig-proto="https" data-orig-ref="cloudflare.com/support" id="support_link" data-translate="help" target="_blank">Help</a></span>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-separator">&bull;</span>,Dec_04_11_46_23
+SEVERE,<span class="cf-footer-item"><span data-translate="performance_security_by">Performance &amp; security by</span> <a data-orig-proto="https" data-orig-ref="cloudflare.com" id="cloudflare_link" target="_blank">CloudFlare</a></span>,Dec_04_11_46_23
+SEVERE,</p>,Dec_04_11_46_23
+SEVERE,</div> ,Dec_04_11_46_23
+SEVERE,</div> ,Dec_04_11_46_23
+SEVERE,</div> ,Dec_04_11_46_23
+SEVERE,Unexpected character (<) at position 0.,Dec_04_11_46_23
+SEVERE,Unexpected character (<) at position 0.,Dec_04_11_46_23
+INFO,[btce] Last price of 1 BTC: -1.0 USD,Dec_04_11_46_23
+INFO,[btce] Last price of 1 LTC: 39.36 EUR,Dec_04_11_46_46
+INFO,[bitstamp] Last price of 1 BTC: 1085.0 USD,Dec_04_11_46_47
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_46_47
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_46_50
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_46_50
+INFO,[mtgox] Last price of 1 BTC: 1179.0 USD,Dec_04_11_46_51
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_46_51
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_46_52
+INFO,[btce] Last price of 1 LTC: 39.36 EUR,Dec_04_11_46_52
+INFO,[bitstamp] Last price of 1 BTC: 1085.0 USD,Dec_04_11_46_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_46_53
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_46_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_46_53
+INFO,[mtgox] Last price of 1 BTC: 1179.0 USD,Dec_04_11_47_05
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_47_05
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_47_05
+INFO,[btce] Last price of 1 LTC: 39.4 EUR,Dec_04_11_47_06
+INFO,[bitstamp] Last price of 1 BTC: 1085.98 USD,Dec_04_11_47_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_47_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_47_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_47_07
+INFO,[mtgox] Last price of 1 BTC: 1185.0 USD,Dec_04_11_47_20
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_47_21
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_47_21
+INFO,[btce] Last price of 1 LTC: 39.47 EUR,Dec_04_11_47_21
+INFO,[bitstamp] Last price of 1 BTC: 1085.98 USD,Dec_04_11_47_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_47_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_47_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_47_22
+INFO,[mtgox] Last price of 1 BTC: 1185.0 USD,Dec_04_11_47_36
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_47_36
+INFO,Rule added: sell 3.0 BTC on mtgox if price goes above 213123.0 USD,Dec_04_11_47_36
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_47_36
+INFO,[btce] Last price of 1 LTC: 39.47 EUR,Dec_04_11_47_37
+INFO,[bitstamp] Last price of 1 BTC: 1086.95 USD,Dec_04_11_47_37
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_47_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_47_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_47_38
+INFO,[mtgox] Last price of 1 BTC: 1189.99 USD,Dec_04_11_47_51
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_47_51
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_47_51
+INFO,[btce] Last price of 1 LTC: 39.468 EUR,Dec_04_11_47_52
+INFO,[bitstamp] Last price of 1 BTC: 1086.95 USD,Dec_04_11_47_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_47_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_47_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_47_53
+INFO,Rule deleted . Id : 4Comment : ,Dec_04_11_47_55
+INFO,[mtgox] Last price of 1 BTC: 1189.99 USD,Dec_04_11_48_05
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_48_05
+INFO,[btce] Last price of 1 BTC: 1028.9 USD,Dec_04_11_48_06
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_48_06
+INFO,[bitstamp] Last price of 1 BTC: 1086.95 USD,Dec_04_11_48_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_48_06
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_48_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_48_07
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_11_48_20
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_48_21
+INFO,[btce] Last price of 1 BTC: 1028.9 USD,Dec_04_11_48_21
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_48_22
+INFO,[bitstamp] Last price of 1 BTC: 1086.95 USD,Dec_04_11_48_22
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_48_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_48_23
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_48_23
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_11_48_35
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_48_35
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_48_36
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_48_36
+INFO,[bitstamp] Last price of 1 BTC: 1086.0 USD,Dec_04_11_48_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_48_36
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_48_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_48_37
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_11_48_50
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_48_51
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_48_51
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_48_52
+INFO,[bitstamp] Last price of 1 BTC: 1086.0 USD,Dec_04_11_48_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_48_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_48_52
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_48_53
+INFO,[mtgox] Last price of 1 BTC: 1190.0 USD,Dec_04_11_49_05
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_49_05
+INFO,[btce] Last price of 1 BTC: 1028.9 USD,Dec_04_11_49_05
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_49_06
+INFO,[bitstamp] Last price of 1 BTC: 1086.0 USD,Dec_04_11_49_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_49_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_49_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_49_07
+INFO,[mtgox] Last price of 1 BTC: 1181.0 USD,Dec_04_11_49_20
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_49_21
+INFO,[btce] Last price of 1 BTC: 1028.91 USD,Dec_04_11_49_21
+INFO,[btce] Last price of 1 LTC: 39.44 EUR,Dec_04_11_49_21
+INFO,[bitstamp] Last price of 1 BTC: 1086.0 USD,Dec_04_11_49_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_49_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_49_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_49_22
+INFO,[mtgox] Last price of 1 BTC: 1179.01 USD,Dec_04_11_49_36
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_49_36
+INFO,[btce] Last price of 1 BTC: 1029.91 USD,Dec_04_11_49_36
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_49_36
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_49_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_49_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_49_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_49_37
+INFO,[mtgox] Last price of 1 BTC: 1179.01 USD,Dec_04_11_49_50
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_49_51
+INFO,[btce] Last price of 1 BTC: 1028.88 USD,Dec_04_11_49_51
+INFO,[btce] Last price of 1 LTC: 39.481 EUR,Dec_04_11_49_52
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_49_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_49_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_49_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_49_53
+INFO,[mtgox] Last price of 1 BTC: 1188.5 USD,Dec_04_11_50_06
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_50_06
+INFO,[btce] Last price of 1 BTC: 1027.42 USD,Dec_04_11_50_07
+INFO,[btce] Last price of 1 LTC: 39.419 EUR,Dec_04_11_50_07
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_50_07
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_50_08
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_50_08
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_50_08
+INFO,[mtgox] Last price of 1 BTC: 1188.5 USD,Dec_04_11_50_20
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_50_21
+INFO,[btce] Last price of 1 BTC: 1027.99 USD,Dec_04_11_50_21
+INFO,[btce] Last price of 1 LTC: 39.48 EUR,Dec_04_11_50_21
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_50_21
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_50_22
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_50_22
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_50_22
+INFO,[mtgox] Last price of 1 BTC: 1188.5 USD,Dec_04_11_50_36
+INFO,[mtgox] Last price of 1 BTC: 859.99 EUR,Dec_04_11_50_36
+INFO,[btce] Last price of 1 BTC: 1028.8 USD,Dec_04_11_50_36
+INFO,[btce] Last price of 1 LTC: 39.45 EUR,Dec_04_11_50_36
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_50_36
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_50_37
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_50_37
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_50_37
+INFO,[mtgox] Last price of 1 BTC: 1188.5 USD,Dec_04_11_50_50
+INFO,[mtgox] Last price of 1 BTC: 854.0 EUR,Dec_04_11_50_51
+INFO,[btce] Last price of 1 BTC: 1028.9 USD,Dec_04_11_50_51
+INFO,[btce] Last price of 1 LTC: 39.44 EUR,Dec_04_11_50_52
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_50_52
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_50_52
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_50_53
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_50_53
+INFO,[mtgox] Last price of 1 BTC: 1179.01 USD,Dec_04_11_51_06
+INFO,[mtgox] Last price of 1 BTC: 854.0 EUR,Dec_04_11_51_06
+INFO,[btce] Last price of 1 BTC: 1028.9 USD,Dec_04_11_51_06
+INFO,[btce] Last price of 1 LTC: 39.419 EUR,Dec_04_11_51_06
+INFO,[bitstamp] Last price of 1 BTC: 1087.0 USD,Dec_04_11_51_06
+INFO,[mtgox] Balance updated :Balance : 0.00700262 BTC; 1.89642 USD; 1.89642 EUR ,Dec_04_11_51_07
+INFO,[btce] Balance updated :Balance : 5.889E-5 BTC; 5.889E-5 LTC; 0.99755187 USD; ,Dec_04_11_51_07
+INFO,[bitstamp] Balance updated :Balance : 3.878 BTC; 7072.95 USD; ,Dec_04_11_51_07

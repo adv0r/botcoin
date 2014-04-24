@@ -1,0 +1,36 @@
+Used FX-Libraries for animations : (link and license)
+----
+       https://github.com/shivkumarganesh/VisSub
+http://www.youtube.com/watch?v=nJZfTZbBrPM
+https://github.com/visage-lang/visage-gradle-plugin
+
+----
+
+        final ListView<String> peopleView = new ListView<>();
+        peopleView.itemsProperty().bind(friends);
+
+        THis snippet is gonna be useful to bind lists to UI
+
+
+https://gist.github.com/jewelsea/2305098  for the splash screen
+Requirements :
+
+-MacOsX
+-Git
+-JavaJDK 7 Update 4
+
+-Netbeans 7.3 ( https://netbeans.org/downloads/start.html?platform=macosx&lang=en&option=all)
+
+
+___________________________Bisogna autorizzare la JVM ad accettare SSL di gox :
+
+Run the JVM with options : 
+
+To generate the keystore containing the two certificares I used
+ 
+ keytool -import -alias mtgox-data -file data.mtgox.com.cer -keystore mtgox.jks
+ keytool -import -alias mtgox-com -file mtgox.com.cer -keystore mtgox.jks
+
+Il file si trova in resources/ssl/mtgox.jks , password h4rdc0r_
+
+
