@@ -34,12 +34,19 @@
 
 ```
 operation, amount,coin,direction,target,market
+
 buy,10.1,btc,above,115,mtgox
+
 sell,0.023,btc,below,110,bitstamp
+
 sms,,ltc,above,5,btce
+
 buy,4,ltc,above,3,btce
+
 sell,30,btc,below,98,mtgox
+
 mail,,btc,below,100,bitstamp
+
 ```
 
 
@@ -47,4 +54,6 @@ mail,,btc,below,100,bitstamp
 ## How to contribute
 
 ## Donation
+
+1337AdvApU14cW4M8fU5E1zAqDEe4NZGGN
 
