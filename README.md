@@ -6,8 +6,9 @@ Botcoin is a simple trading bot that can listen to the market price and execute 
 
 ## Small history
 After dragging this project around for little more than a year, today I open source it.  I started with a node.js prototype bot that executed simple orders like "sell 4 BTC if price drops below 5%". That prototype can be found in the [node-prototype/](https://github.com/adv0r/botcoin/tree/master/node-prototype) directory of this repo, with its own instructions. Here a link to its announcement on [bitcointalk](https://bitcointalk.org/index.php?topic=161687.msg1705468#msg1705468). It used to work on MtGox (RIP), btc-e and bitstamp: the three major exchanges back in the days. It was quite innovative since was using the v.2.0 of gox's API. 
+It saved my life-savings and also made some profit. More people started asking me to release it and that's why I decided to build a proper product in which bitcoiners can put their own trust : I was gonna build the [trading bot for the trust-no one kind of guys](https://bitcointalk.org/index.php?topic=182946.msg1940056#msg1940056). 
 
-It saved my life-savings and also made some profit. More people started asking me to release it and that's why I decided to build a proper product in which bitcoiners can put their own trust : I was gonna build the [trading bot for the trust-no one kind of guys](https://bitcointalk.org/index.php?topic=182946.msg1940056#msg1940056). The code at this repository is the result. Is not finished and its incomplete but it was a very interesting exercise to carry on.  Check it out.
+After some months I'm not putting effort anymore into it and I decided that is better open source it than let it go.  In the folder [Botcoin-javafx/](https://github.com/adv0r/botcoin/tree/master/Botcoin-javafx) of this repo you'll find the latest version. Is not finished but it works and has been a very interesting exercise to carry on.  Check it out.
 
 ## Features
 
@@ -51,17 +52,11 @@ Create your own trading strategy in plain english, run the app, and then you are
 
 ```
 operation, amount,coin,direction,target,market
-
 buy,10.1,btc,above,115,mtgox
-
 sell,0.023,btc,below,110,bitstamp
-
 sms,,ltc,above,5,btce
-
 buy,4,ltc,above,3,btce
-
 sell,30,btc,below,98,mtgox
-
 mail,,btc,below,100,bitstamp
 
 ```
